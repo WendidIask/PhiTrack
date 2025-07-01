@@ -1,0 +1,6203 @@
+{
+  "Glaciaxion": {
+    "pack": "legacy",
+    "ez": {
+      "level": 1.0,
+      "notes": 66,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 6.5,
+      "notes": 393,
+      "charter": "阿爽 fixed by Clutter"
+    },
+    "in": {
+      "level": 12.6,
+      "notes": 729,
+      "charter": "Barbarianerman vs. NerSAN"
+    },
+    "artist": "SunsetRay",
+    "duration": "2:43",
+    "illustration": "艾若拉",
+    "original": "True",
+    "version": "1.0.0"
+  },
+  "Eradication Catastrophe": {
+    "pack": "legacy",
+    "ez": {
+      "level": 3.5,
+      "notes": 181,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 7.5,
+      "notes": 200,
+      "charter": "Barbarianerman fixed by Clutter"
+    },
+    "in": {
+      "level": 12.7,
+      "notes": 593,
+      "charter": "Barbarianerman"
+    },
+    "artist": "NceS",
+    "duration": "2:07",
+    "illustration": "海产",
+    "version": "1.0.0"
+  },
+  "Credits": {
+    "pack": "legacy",
+    "ez": {
+      "level": 4.5,
+      "notes": 188,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 10.4,
+      "notes": 355,
+      "charter": "Ctymax"
+    },
+    "in": {
+      "level": 13.6,
+      "notes": 535,
+      "charter": "Ctymax"
+    },
+    "at": {
+      "level": 15.7,
+      "notes": 638,
+      "charter": "TangScend"
+    },
+    "artist": "Frums",
+    "duration": "1:41",
+    "illustration": "Ctymax",
+    "version": "1.0.0"
+  },
+  "Dlyrotz": {
+    "pack": "legacy",
+    "ez": {
+      "level": 4.0,
+      "notes": 398,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 9.1,
+      "notes": 458,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 584,
+      "charter": "XMT小咩兔 vs. Barbarianerman"
+    },
+    "artist": "Likey",
+    "duration": "2:02",
+    "illustration": "DoublePian",
+    "version": "1.0.0"
+  },
+  "Engine x Start!! (melody mix)": {
+    "pack": "legacy",
+    "ez": {
+      "level": 2.5,
+      "notes": 75,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 8.3,
+      "notes": 192,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 13.0,
+      "notes": 433,
+      "charter": "阿爽"
+    },
+    "artist": "CrossingSound",
+    "duration": "1:32",
+    "illustration": "赤芽",
+    "original": true,
+    "version": "1.0.0"
+  },
+  "光": {
+    "pack": "legacy",
+    "ez": {
+      "level": 2.0,
+      "notes": 138,
+      "charter": "Catcats & 百九十八 fixed by Clutter"
+    },
+    "hd": {
+      "level": 7.5,
+      "notes": 315,
+      "charter": "Catcats & 百九十八 fixed by Clutter"
+    },
+    "in": {
+      "level": 12.4,
+      "notes": 517,
+      "charter": "Catcats & 百九十八"
+    },
+    "artist": "姜米條",
+    "duration": "2:12",
+    "illustration": "winder",
+    "original": true,
+    "version": "1.0.0"
+  },
+  "Winter ↑cube↓": {
+    "pack": "legacy",
+    "ez": {
+      "level": 3.5,
+      "notes": 306,
+      "charter": "Ctymax after 7 years"
+    },
+    "hd": {
+      "level": 8.2,
+      "notes": 449,
+      "charter": "Salt"
+    },
+    "in": {
+      "level": 13.4,
+      "notes": 733,
+      "charter": "百九十八"
+    },
+    "artist": "Ctymax feat. NceS",
+    "duration": "2:36",
+    "illustration": "翠冷兮",
+    "version": "1.0.0"
+  },
+  "混乱-Confusion": {
+    "pack": "legacy",
+    "ez": {
+      "level": 4.0,
+      "notes": 319,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 10.0,
+      "notes": 478,
+      "charter": "StR-1"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 978,
+      "charter": "XMT小咩兔"
+    },
+    "artist": "Only My Black Score",
+    "duration": "2:08",
+    "illustration": "L-sp4",
+    "version": "1.0.0"
+  },
+  "Cipher : /2&//<|0": {
+    "pack": "legacy",
+    "ez": {
+      "level": 5.0,
+      "notes": 401,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 10.3,
+      "notes": 473,
+      "charter": "M3d1uM"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 1041,
+      "charter": "Barbarianerman feat. Gausbon"
+    },
+    "artist": "1N6Fs feat.Ctymax",
+    "duration": "2:34",
+    "illustration": "IvyTowers",
+    "version": "1.0.0"
+  },
+  "FULi AUTO SHOOTER": {
+    "pack": "legacy",
+    "ez": {
+      "level": 3.0,
+      "notes": 141,
+      "charter": "騎士Knight"
+    },
+    "hd": {
+      "level": 9.0,
+      "notes": 389,
+      "charter": "騎士Knight"
+    },
+    "in": {
+      "level": 14.9,
+      "notes": 843,
+      "charter": "阿爽 fixed by Ctymax"
+    },
+    "artist": "MYUKKE.",
+    "duration": "2:10",
+    "illustration": "ViscerA & Psycholine",
+    "version": "1.0.0"
+  },
+  "HumaN": {
+    "pack": "legacy",
+    "ez": {
+      "level": 3.0,
+      "notes": 111,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 8.0,
+      "notes": 222,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 12.9,
+      "notes": 554,
+      "charter": "CN_115+TangScend"
+    },
+    "artist": "SOTUI",
+    "duration": "2:14",
+    "illustration": "CH",
+    "version": "1.0.0"
+  },
+  "[PRAW]": {
+    "pack": "legacy",
+    "ez": {
+      "level": 6.0,
+      "notes": 413,
+      "charter": "Likey"
+    },
+    "hd": {
+      "level": 10.6,
+      "notes": 575,
+      "charter": "Likey"
+    },
+    "in": {
+      "level": 15.1,
+      "notes": 1171,
+      "charter": "晨 vs. 阿爽"
+    },
+    "artist": "BlueWind",
+    "duration": "2:37",
+    "illustration": "老张",
+    "version": "1.0.0"
+  },
+  "Cereris": {
+    "pack": "legacy",
+    "ez": {
+      "level": 5.5,
+      "notes": 490,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 10.9,
+      "notes": 701,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 898,
+      "charter": "StupiGGy"
+    },
+    "artist": "SunsetRay/NceS",
+    "duration": "2:48",
+    "illustration": "IvyTowers",
+    "version": "1.0.0"
+  },
+  "Pixel Rebelz": {
+    "pack": "legacy",
+    "ez": {
+      "level": 4.5,
+      "notes": 285,
+      "charter": "騎士Knight"
+    },
+    "hd": {
+      "level": 9.7,
+      "notes": 505,
+      "charter": "騎士Knight"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 941,
+      "charter": "NerSAN"
+    },
+    "artist": "Normal1zer",
+    "duration": "2:23",
+    "illustration": "艾是Abby",
+    "version": "1.0.0"
+  },
+  "Non-Melodic Ragez (MUG Edit)": {
+    "pack": "legacy",
+    "ez": {
+      "level": 5.5,
+      "notes": 347,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 11.6,
+      "notes": 675,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 16.1,
+      "notes": 1235,
+      "charter": "阿爽 fixed by Barbarianerman"
+    },
+    "artist": "Normal1zer",
+    "duration": "2:19",
+    "illustration": "cycats",
+    "version": "1.0.0"
+  },
+  "Sultan Rage": {
+    "pack": "legacy",
+    "ez": {
+      "level": 4.0,
+      "notes": 159,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 7.0,
+      "notes": 334,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 12.3,
+      "notes": 485,
+      "charter": "百九十八"
+    },
+    "artist": "MonstDeath",
+    "duration": "1:56",
+    "illustration": "笔记RE",
+    "version": "1.1.0"
+  },
+  "Class Memories": {
+    "pack": "legacy",
+    "ez": {
+      "level": 6.0,
+      "notes": 393,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 10.8,
+      "notes": 771,
+      "charter": "M3d1uM"
+    },
+    "in": {
+      "level": 13.8,
+      "notes": 1194,
+      "charter": "JKy"
+    },
+    "artist": "Antistar feat. Ctymax",
+    "duration": "2:27",
+    "illustration": "xperz",
+    "version": "1.1.0"
+  },
+  "-SURREALISM-": {
+    "pack": "legacy",
+    "ez": {
+      "level": 5.0,
+      "notes": 338,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 9.4,
+      "notes": 571,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 13.4,
+      "notes": 914,
+      "charter": "-StupiGGy- fixed by 晨"
+    },
+    "artist": "Itsuki",
+    "duration": "2:34",
+    "illustration": "喵n葵",
+    "version": "1.1.0"
+  },
+  "Bonus Time": {
+    "pack": "legacy",
+    "ez": {
+      "level": 3.5,
+      "notes": 214,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 9.5,
+      "notes": 412,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 13.8,
+      "notes": 689,
+      "charter": "Uvernight fixed by 百九十八"
+    },
+    "artist": "Megalo_PaleWhite",
+    "duration": "1:55",
+    "illustration": "笔记RE",
+    "version": "1.1.0"
+  },
+  "ENERGY SYNERGY MATRIX": {
+    "pack": "legacy",
+    "ez": {
+      "level": 5.5,
+      "notes": 450,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 11.5,
+      "notes": 580,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 750,
+      "charter": "Ctymax vs. 阿爽 fixed by Barbarianerman"
+    },
+    "artist": "Tanchiky",
+    "duration": "2:05",
+    "illustration": "Karameru",
+    "version": "1.1.0"
+  },
+  "NYA!!!": {
+    "pack": "story5",
+    "ez": {
+      "level": 2.0,
+      "notes": 122,
+      "charter": "Catcats"
+    },
+    "hd": {
+      "level": 8.6,
+      "notes": 428,
+      "charter": "Catcats"
+    },
+    "in": {
+      "level": 13.1,
+      "notes": 666,
+      "charter": "Catcats"
+    },
+    "artist": "FLuoRiTe/姜米條",
+    "duration": "2:36",
+    "illustration": "NEKO&海产",
+    "version": "1.3.0"
+  },
+  "JunXion Between Life And Death(VIP Mix)": {
+    "pack": "story5",
+    "ez": {
+      "level": 3.0,
+      "notes": 262,
+      "charter": "鲲&百九十八"
+    },
+    "hd": {
+      "level": 8.7,
+      "notes": 593,
+      "charter": "鲲&百九十八"
+    },
+    "in": {
+      "level": 13.4,
+      "notes": 722,
+      "charter": "鲲&百九十八"
+    },
+    "artist": "1N6Fs",
+    "duration": "2:23",
+    "illustration": "IvyTowers",
+    "version": "1.3.0"
+  },
+  "cryout": {
+    "pack": "story5",
+    "ez": {
+      "level": 3.5,
+      "notes": 221,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 9.9,
+      "notes": 529,
+      "charter": "Ctymax"
+    },
+    "in": {
+      "level": 13.6,
+      "notes": 712,
+      "charter": "Ctymax but 5 years later"
+    },
+    "artist": "Ju_E",
+    "duration": "2:06",
+    "illustration": "Haight",
+    "version": "1.3.0"
+  },
+  "Reimei": {
+    "pack": "story5",
+    "ez": {
+      "level": 6.5,
+      "notes": 325,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 11.7,
+      "notes": 644,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 15.1,
+      "notes": 983,
+      "charter": "百九十八"
+    },
+    "artist": "影虎。",
+    "duration": "2:26",
+    "illustration": "英英英",
+    "version": "1.3.0"
+  },
+  "尊師 ～The Guru～": {
+    "pack": "story5",
+    "ez": {
+      "level": 6.0,
+      "notes": 386,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 11.6,
+      "notes": 565,
+      "charter": "M3d1uM"
+    },
+    "in": {
+      "level": 15.4,
+      "notes": 738,
+      "charter": "阿爽"
+    },
+    "artist": "rider",
+    "duration": "2:09",
+    "illustration": "1B",
+    "version": "1.3.0"
+  },
+  "Spasmodic": {
+    "pack": "story5",
+    "ez": {
+      "level": 8.2,
+      "notes": 637,
+      "charter": "Catcats"
+    },
+    "hd": {
+      "level": 13.3,
+      "notes": 904,
+      "charter": "Catcats"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 1389,
+      "charter": "Catcats"
+    },
+    "at": {
+      "level": 16.7,
+      "notes": 1671,
+      "charter": "Catcats"
+    },
+    "artist": "姜米條",
+    "duration": "2:35",
+    "illustration": "昔璃☆暴雨~♫危難聖帝♫",
+    "original": true,
+    "version": "1.3.0"
+  },
+  "Leave All Behind": {
+    "pack": "story5",
+    "ez": {
+      "level": 3.0,
+      "notes": 210,
+      "charter": "亚树见希子 & 百九十八"
+    },
+    "hd": {
+      "level": 8.9,
+      "notes": 394,
+      "charter": "亚树见希子 & 百九十八"
+    },
+    "in": {
+      "level": 12.7,
+      "notes": 523,
+      "charter": "亚树见希子 & 百九十八"
+    },
+    "artist": "rider",
+    "duration": "2:07",
+    "illustration": "笔记RE",
+    "original": true,
+    "version": "1.4.6"
+  },
+  "Colorful Days♪": {
+    "pack": "story6",
+    "artist": "P4koo feat. つゆり花鈴",
+    "ez": {
+      "level": 5.0,
+      "notes": 156,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 7.0,
+      "notes": 186,
+      "charter": "阿爽"
+    },
+    "in": {
+      "level": 12.7,
+      "notes": 407,
+      "charter": "阿爽"
+    },
+    "illustration": "Doro-nyong & Ratif",
+    "duration": "1:40",
+    "version": "1.5.0"
+  },
+  "micro.wav": {
+    "pack": "story6",
+    "artist": "dandeless",
+    "ez": {
+      "level": 6.0,
+      "notes": 196,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 10.5,
+      "notes": 459,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 649,
+      "charter": "百九十八"
+    },
+    "illustration": "snake.ribs",
+    "duration": "2:40",
+    "original": true,
+    "version": "1.5.0"
+  },
+  "重生": {
+    "pack": "story6",
+    "artist": "姜米條",
+    "ez": {
+      "level": 4.5,
+      "notes": 354,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 8.8,
+      "notes": 650,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 900,
+      "charter": "Barbarianerman"
+    },
+    "illustration": "昔璃&TNiK",
+    "duration": "2:23",
+    "original": true,
+    "version": "1.5.0"
+  },
+  "NO ONE YES MAN": {
+    "pack": "story6",
+    "artist": "MYUKKE.",
+    "ez": {
+      "level": 7.0,
+      "notes": 394,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 10.9,
+      "notes": 612,
+      "charter": "晨"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 844,
+      "charter": "晨 vs. Ctymax"
+    },
+    "duration": "2:41",
+    "illustration": "青鸟",
+    "original": true,
+    "version": "1.5.0"
+  },
+  "望影の方舟Six": {
+    "pack": "story6",
+    "artist": "Se-U-Ra",
+    "ez": {
+      "level": 6.5,
+      "notes": "276 + 1",
+      "charter": "TangScend"
+    },
+    "hd": {
+      "level": 11.9,
+      "notes": "526 + 2",
+      "charter": "TangScend"
+    },
+    "in": {
+      "level": 15.99,
+      "notes": "1066 + 3",
+      "charter": "TangScend"
+    },
+    "illustration": "鲸弑",
+    "duration": "1:53",
+    "version": "1.5.0"
+  },
+  "Igallta": {
+    "pack": "story6",
+    "artist": "Se-U-Ra",
+    "ez": {
+      "level": 7.5,
+      "notes": 414,
+      "charter": "信仰の剣『生』"
+    },
+    "hd": {
+      "level": 12.2,
+      "notes": 601,
+      "charter": "平川の剣『士』"
+    },
+    "in": {
+      "level": 16.1,
+      "notes": 1018,
+      "charter": "StupiGGy"
+    },
+    "at": {
+      "level": 17.4,
+      "notes": 1114,
+      "charter": "断罪の剣『神』"
+    },
+    "duration": "2:20",
+    "illustration": "Se-U-Ra",
+    "original": true,
+    "version": "1.5.0"
+  },
+  "Clock Paradox": {
+    "pack": "story7",
+    "ez": {
+      "level": 2.0,
+      "notes": 188,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 6.0,
+      "notes": 312,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 12.5,
+      "notes": 520,
+      "charter": "Barbarianerman"
+    },
+    "artist": "WyvernP",
+    "duration": "2:30",
+    "illustration": "汉堡",
+    "original": true,
+    "version": "2.0.0"
+  },
+  "Chronologika": {
+    "pack": "story7",
+    "ez": {
+      "level": 3.5,
+      "notes": 271,
+      "charter": "TimiTini"
+    },
+    "hd": {
+      "level": 9.8,
+      "notes": 456,
+      "charter": "XMT小咩兔"
+    },
+    "in": {
+      "level": 13.8,
+      "notes": 776,
+      "charter": "Ctymax vs. Barbarianerman"
+    },
+    "artist": "Hundotte",
+    "duration": "2:14",
+    "illustration": "幽灵星",
+    "original": true,
+    "version": "2.0.0"
+  },
+  "Nick of Time": {
+    "pack": "story7",
+    "ez": {
+      "level": 6.0,
+      "notes": 328,
+      "charter": "晨 vs. XMT小咩兔"
+    },
+    "hd": {
+      "level": 9.3,
+      "notes": 429,
+      "charter": "晨 vs. XMT小咩兔"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 745,
+      "charter": "NerSAN"
+    },
+    "artist": "P4koo",
+    "duration": "2:22",
+    "illustration": "青鸟",
+    "version": "2.0.0"
+  },
+  "Chronomia": {
+    "pack": "story7",
+    "ez": {
+      "level": 4.5,
+      "notes": 338,
+      "charter": "Pcat"
+    },
+    "hd": {
+      "level": 11.1,
+      "notes": 663,
+      "charter": "Rikko"
+    },
+    "in": {
+      "level": 15.4,
+      "notes": 992,
+      "charter": "亚树见希子 & 百九十八"
+    },
+    "artist": "Lime",
+    "duration": "2:26",
+    "illustration": "inukoro",
+    "version": "2.0.0"
+  },
+  "Chronos Collapse - La Campanella": {
+    "pack": "story7",
+    "ez": {
+      "level": 4.5,
+      "notes": 350,
+      "charter": "Pcat 『Scatter』"
+    },
+    "hd": {
+      "level": 12.3,
+      "notes": 775,
+      "charter": "阿爽 『Destroy』"
+    },
+    "in": {
+      "level": 16.3,
+      "notes": 1500,
+      "charter": "NerSAN vs. 阿爽 『Collapse』"
+    },
+    "artist": "SunsetRay",
+    "duration": "2:33",
+    "illustration": "老张",
+    "version": "2.0.0"
+  },
+  "Rrhar'il": {
+    "pack": "story7",
+    "ez": {
+      "level": 7.0,
+      "notes": 446,
+      "charter": "鲲"
+    },
+    "hd": {
+      "level": 12.7,
+      "notes": 700,
+      "charter": "阿爽"
+    },
+    "in": {
+      "level": 16.1,
+      "notes": 1300,
+      "charter": "RDRT -p 20:08:31"
+    },
+    "at": {
+      "level": 17.6,
+      "notes": 1300,
+      "charter": "RWND -p 16493:62786:92551"
+    },
+    "artist": "Team Grimoire",
+    "duration": "2:12",
+    "illustration": "犀牛坨动画工坊",
+    "original": true,
+    "version": "2.0.0"
+  },
+  "Crave Wave": {
+    "pack": "story8",
+    "ez": {
+      "level": 2.5,
+      "notes": 177,
+      "charter": "Likey"
+    },
+    "hd": {
+      "level": 8.0,
+      "notes": 396,
+      "charter": "Likey"
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 593,
+      "charter": "Likey feat. 百九十八"
+    },
+    "artist": "LandRoot",
+    "duration": "2:08",
+    "illustration": "笔记RE",
+    "original": true,
+    "version": "3.0.0"
+  },
+  "The Chariot ~REVIIVAL~": {
+    "pack": "story8",
+    "ez": {
+      "level": 5.0,
+      "notes": 520,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 9.0,
+      "notes": 660,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 14.0,
+      "notes": 1009,
+      "charter": "Ctymax drives in BlindForest"
+    },
+    "artist": "Attoclef",
+    "duration": "2:25",
+    "illustration": "翠冷兮",
+    "original": true,
+    "version": "3.0.0"
+  },
+  "Luminescence": {
+    "pack": "story8",
+    "ez": {
+      "level": 5.5,
+      "notes": 443,
+      "charter": "XMT小咩兔"
+    },
+    "hd": {
+      "level": 11.0,
+      "notes": 689,
+      "charter": "XMT小咩兔"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 987,
+      "charter": "Pcat & 百九十八"
+    },
+    "artist": "米虾Fomiki & 初云CLoudie",
+    "duration": "2:37",
+    "illustration": "子狼",
+    "original": true,
+    "version": "3.0.0"
+  },
+  "Retribution": {
+    "pack": "story8",
+    "ez": {
+      "level": 6.0,
+      "notes": 555,
+      "charter": "NerSAN"
+    },
+    "hd": {
+      "level": 11.6,
+      "notes": 868,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 16.2,
+      "notes": 1358,
+      "charter": "NerSAN as \"SPΔDE\""
+    },
+    "artist": "nm-y & Kry.exe",
+    "duration": "2:37",
+    "illustration": "NerSAN",
+    "original": true,
+    "version": "3.0.0"
+  },
+  "DESTRUCTION 3,2,1": {
+    "pack": "story8",
+    "ez": {
+      "level": 8.5,
+      "notes": 1060,
+      "charter": "{Demolition,Devastation,Destruction}"
+    },
+    "hd": {
+      "level": 13.1,
+      "notes": 1250,
+      "charter": "{Devastation,Destruction}"
+    },
+    "in": {
+      "level": 16.3,
+      "notes": 1532,
+      "charter": "{Destruction}"
+    },
+    "at": {
+      "level": 17.3,
+      "notes": 2330,
+      "charter": "∅"
+    },
+    "artist": "Normal1zer",
+    "duration": "2:40",
+    "illustration": "rN",
+    "original": true,
+    "version": "3.0.0"
+  },
+  "Distorted Fate": {
+    "pack": "story8",
+    "ez": {
+      "level": 8.1,
+      "notes": 594,
+      "charter": "De Fiance"
+    },
+    "hd": {
+      "level": 13.5,
+      "notes": 970,
+      "charter": "Doubt Ful"
+    },
+    "in": {
+      "level": 16.3,
+      "notes": 1449,
+      "charter": "Divination Fortune"
+    },
+    "at": {
+      "level": 17.4,
+      "notes": 1283,
+      "charter": "unDefined Future"
+    },
+    "artist": "Sakuzyo",
+    "duration": "2:45",
+    "illustration": "knife美工刀",
+    "original": true,
+    "version": "3.0.0"
+  },
+  "Ποσειδών": {
+    "pack": "side1",
+    "ez": {
+      "level": 6.0,
+      "notes": 533,
+      "charter": "JKy"
+    },
+    "hd": {
+      "level": 8.4,
+      "notes": 397,
+      "charter": "JKy"
+    },
+    "in": {
+      "level": 12.8,
+      "notes": 450,
+      "charter": "JKy feat. Barbarianerman"
+    },
+    "at": {
+      "level": 16.2,
+      "notes": 1228,
+      "charter": "XMT小咩兔"
+    },
+    "duration": "2:03",
+    "artist": "1112 vs. Star＊",
+    "illustration": "老张",
+    "version": "1.6.0"
+  },
+  "WATER": {
+    "pack": "side1",
+    "ez": {
+      "level": 4.5,
+      "notes": 338,
+      "charter": "JKy"
+    },
+    "hd": {
+      "level": 9.4,
+      "notes": 703,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 13.6,
+      "notes": 643,
+      "charter": "乱流に巻き込まれ"
+    },
+    "duration": "2:37",
+    "artist": "A-39/沙包P",
+    "illustration": "knife美工刀",
+    "version": "1.6.0"
+  },
+  "Miracle Forest (VIP Mix)": {
+    "pack": "side1",
+    "ez": {
+      "level": 3.0,
+      "notes": 323,
+      "charter": "亚树见希子"
+    },
+    "hd": {
+      "level": 7.5,
+      "notes": 586,
+      "charter": "亚树见希子"
+    },
+    "in": {
+      "level": 13.1,
+      "notes": 839,
+      "charter": "亚树见希子 feat. Barbarianerman"
+    },
+    "duration": "2:50",
+    "artist": "Rinth_live",
+    "illustration": "L-sp4",
+    "version": "1.6.0"
+  },
+  "MOBILYS": {
+    "pack": "side1",
+    "ez": {
+      "level": 5.5,
+      "notes": 311,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 9.3,
+      "notes": 530,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 14.3,
+      "notes": 928,
+      "charter": "StupiGGy vs. 百九十八 ft. Barbarianerman"
+    },
+    "duration": "2:43",
+    "artist": "Dachs",
+    "illustration": "わっふゑ",
+    "version": "1.6.0"
+  },
+  "Lyrith -迷宮リリス-": {
+    "pack": "side1",
+    "ez": {
+      "level": 5.0,
+      "notes": 248,
+      "charter": "阿爽 as \"mAze\""
+    },
+    "hd": {
+      "level": 11.1,
+      "notes": 700,
+      "charter": "阿爽 as \"myStery\""
+    },
+    "in": {
+      "level": 16.1,
+      "notes": 1276,
+      "charter": "XMT小咩兔 as \"eX-MentalisT\""
+    },
+    "at": {
+      "level": 16.5,
+      "notes": 1236,
+      "charter": "CN_115"
+    },
+    "artist": "LeaF",
+    "duration": "2:27",
+    "illustration": "何呵",
+    "version": "1.6.0"
+  },
+  "XING": {
+    "pack": "musedash",
+    "ez": {
+      "level": 5.5,
+      "notes": 310,
+      "charter": "StupiGGy"
+    },
+    "hd": {
+      "level": 9.9,
+      "notes": 587,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 13.9,
+      "notes": 711,
+      "charter": "Sillyp vs. 阿爽"
+    },
+    "artist": "ginkiha",
+    "duration": "2:16",
+    "illustration": "打雷打人 (青鸟 modified)",
+    "version": "1.6.8"
+  },
+  "Final Step!": {
+    "pack": "musedash",
+    "ez": {
+      "level": 5.5,
+      "notes": 355,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 11.0,
+      "notes": 604,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 14.1,
+      "notes": 931,
+      "charter": "Barbarianerman vs. Uvernight"
+    },
+    "artist": "Lime",
+    "duration": "2:17",
+    "illustration": "谷地 (青鸟 modified)",
+    "version": "1.6.8"
+  },
+  "Cthugha": {
+    "pack": "musedash",
+    "ez": {
+      "level": 6.0,
+      "notes": 378,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 10.4,
+      "notes": 697,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 16.0,
+      "notes": 1333,
+      "charter": "Gausbon"
+    },
+    "at": {
+      "level": 16.1,
+      "notes": 1444,
+      "charter": "百九十八 feat. NerSAN"
+    },
+    "artist": "USAO",
+    "duration": "2:35",
+    "illustration": "谷地 (青鸟 modified)",
+    "version": "1.6.8"
+  },
+  "Initialize": {
+    "pack": "waveat",
+    "ez": {
+      "level": 2.5,
+      "notes": 117,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 7.0,
+      "notes": 354,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 11.6,
+      "notes": 581,
+      "charter": "阿爽 vs. NerSAN"
+    },
+    "artist": "iF",
+    "illustration": "あおお/A-ZERO, morph",
+    "duration": "2:07",
+    "version": "1.6.7"
+  },
+  "桜樹街道": {
+    "pack": "waveat",
+    "ez": {
+      "level": 3.5,
+      "notes": 292,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 8.1,
+      "notes": 421,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.0,
+      "notes": 459,
+      "charter": "百九十八"
+    },
+    "artist": "kozato snow",
+    "illustration": "あおお/A-ZERO, morph",
+    "duration": "2:25",
+    "version": "1.6.7"
+  },
+  "Get Ready!!": {
+    "pack": "waveat",
+    "ez": {
+      "level": 6.0,
+      "notes": 363,
+      "charter": "StupiGGy"
+    },
+    "hd": {
+      "level": 10.7,
+      "notes": 584,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 819,
+      "charter": "StupiGGy"
+    },
+    "artist": "iF",
+    "illustration": "あおお/A-ZERO, morph",
+    "duration": "2:10",
+    "version": "1.6.7"
+  },
+  "volcanic": {
+    "pack": "waveat",
+    "ez": {
+      "level": 7.5,
+      "notes": 1052,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 12.1,
+      "notes": 985,
+      "charter": "Rikko"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 1178,
+      "charter": "Ctymax"
+    },
+    "at": {
+      "level": 16.6,
+      "notes": 1650,
+      "charter": "Barbarianerman"
+    },
+    "artist": "ルゼ",
+    "duration": "2:17",
+    "illustration": "あおお/A-ZERO, morph",
+    "version": "1.6.7"
+  },
+  "GOODTEK": {
+    "pack": "good",
+    "ez": {
+      "level": 5.0,
+      "notes": 295,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 10.0,
+      "notes": 609,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 14.2,
+      "notes": 873,
+      "charter": "百九十八"
+    },
+    "artist": "EBIMAYO",
+    "duration": "2:06",
+    "illustration": "Ctymax feat. EBIMAYO",
+    "version": "1.4.7"
+  },
+  "GOODBOUNCE": {
+    "pack": "good",
+    "ez": {
+      "level": 7.5,
+      "notes": 588,
+      "charter": "Gausbon & 晨"
+    },
+    "hd": {
+      "level": 11.9,
+      "notes": 797,
+      "charter": "Gausbon"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 898,
+      "charter": "Ctymax vs. Gausbon"
+    },
+    "artist": "EBIMAYO",
+    "duration": "2:13",
+    "illustration": "EBIMAYO",
+    "version": "1.4.7"
+  },
+  "GOODWORLD": {
+    "pack": "good",
+    "ez": {
+      "level": 3.0,
+      "notes": 215,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 11.4,
+      "notes": 805,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 14.9,
+      "notes": 960,
+      "charter": "StupiGGy vs. 阿爽"
+    },
+    "artist": "EBIMAYO",
+    "duration": "2:12",
+    "illustration": "EBIMAYO",
+    "version": "1.4.7"
+  },
+  "GOODFORTUNE": {
+    "pack": "good",
+    "ez": {
+      "level": 7.5,
+      "notes": 455,
+      "charter": "晨"
+    },
+    "hd": {
+      "level": 8.7,
+      "notes": 733,
+      "charter": "晨"
+    },
+    "in": {
+      "level": 15.7,
+      "notes": 1011,
+      "charter": "晨"
+    },
+    "artist": "EBIMAYO",
+    "duration": "2:13",
+    "illustration": "Ctymax",
+    "version": "1.4.7"
+  },
+  "GOODRAGE": {
+    "pack": "good",
+    "ez": {
+      "level": 5.0,
+      "notes": 308,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 8.5,
+      "notes": 628,
+      "charter": "阿爽"
+    },
+    "in": {
+      "level": 16.0,
+      "notes": 1034,
+      "charter": "Ctymax vs. 阿爽"
+    },
+    "artist": "EBIMAYO",
+    "duration": "2:02",
+    "illustration": "Ctymax feat. EBIMAYO",
+    "version": "1.4.7"
+  },
+  "Infinity Heaven": {
+    "pack": "hyun",
+    "ez": {
+      "level": 3.0,
+      "notes": 164,
+      "charter": "晨 vs. 阿爽"
+    },
+    "hd": {
+      "level": 8.4,
+      "notes": 422,
+      "charter": "晨 vs. 阿爽"
+    },
+    "in": {
+      "level": 13.9,
+      "notes": 1029,
+      "charter": "晨 vs. 阿爽"
+    },
+    "artist": "HyuN",
+    "duration": "2:35",
+    "illustration": "DoublePian",
+    "version": "1.4.2"
+  },
+  "Disorder": {
+    "pack": "hyun",
+    "ez": {
+      "level": 6.0,
+      "notes": 444,
+      "charter": "Gausbon"
+    },
+    "hd": {
+      "level": 10.3,
+      "notes": 629,
+      "charter": "Gausbon"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 918,
+      "charter": "Gausbon"
+    },
+    "artist": "HyuN feat. YURI",
+    "duration": "2:14",
+    "illustration": "Nabom",
+    "version": "1.4.2"
+  },
+  "CROSS†SOUL": {
+    "pack": "hyun",
+    "ez": {
+      "level": 7.5,
+      "notes": 517,
+      "charter": "Catcats"
+    },
+    "hd": {
+      "level": 12.6,
+      "notes": 892,
+      "charter": "Catcats fixed by Rikko"
+    },
+    "in": {
+      "level": 16.4,
+      "notes": 1305,
+      "charter": "Catcats"
+    },
+    "artist": "HyuN feat. Syepias",
+    "duration": "2:19",
+    "illustration": "knife美工刀",
+    "version": "1.4.2"
+  },
+  "Another Me (Neutral Moon)": {
+    "pack": "risingsun",
+    "ez": {
+      "level": 5.5,
+      "notes": 318,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 9.3,
+      "notes": 425,
+      "charter": "M3d1uM"
+    },
+    "in": {
+      "level": 13.6,
+      "notes": 564,
+      "charter": "NerSAN"
+    },
+    "artist": "Neutral Moon",
+    "duration": "2:20",
+    "illustration": "IvyTowers",
+    "version": "1.4.0"
+  },
+  "mechanted": {
+    "pack": "risingsun",
+    "ez": {
+      "level": 3.0,
+      "notes": 184,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 11.3,
+      "notes": 500,
+      "charter": "Ctymax"
+    },
+    "in": {
+      "level": 14.9,
+      "notes": 662,
+      "charter": "Ctymax"
+    },
+    "artist": "rareguy",
+    "duration": "1:56",
+    "illustration": "IvyTowers",
+    "version": "1.4.0"
+  },
+  "life flashes before weeb eyes": {
+    "pack": "risingsun",
+    "ez": {
+      "level": 6.5,
+      "notes": 567,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 11.9,
+      "notes": 960,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 14.9,
+      "notes": 1065,
+      "charter": "百九十八"
+    },
+    "artist": "BilliumMoto",
+    "duration": "2:37",
+    "illustration": "百九十八",
+    "version": "1.4.0"
+  },
+  "Break Through The Barrier": {
+    "pack": "risingsun",
+    "ez": {
+      "level": 5.5,
+      "notes": 419,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 9.5,
+      "notes": 581,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 1090,
+      "charter": "百九十八"
+    },
+    "artist": "lixound",
+    "duration": "2:12",
+    "illustration": "Xquid",
+    "version": "1.4.0"
+  },
+  "Chronostasis": {
+    "pack": "risingsun",
+    "ez": {
+      "level": 6.0,
+      "notes": 291,
+      "charter": "Uvernight"
+    },
+    "hd": {
+      "level": 10.7,
+      "notes": 821,
+      "charter": "Uvernight"
+    },
+    "in": {
+      "level": 16.0,
+      "notes": 1326,
+      "charter": "Gausbon fixed by XMT小咩兔"
+    },
+    "artist": "黒皇帝",
+    "duration": "2:23",
+    "illustration": "Sand",
+    "version": "1.4.0"
+  },
+  "Doppelganger": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 436,
+      "charter": "Lumiere"
+    },
+    "hd": {
+      "level": 9.0,
+      "notes": 591,
+      "charter": "Lumiere"
+    },
+    "in": {
+      "level": 15.1,
+      "notes": 921,
+      "charter": "Gausbon"
+    },
+    "artist": "LeaF",
+    "duration": "2:26",
+    "illustration": "海产",
+    "version": "1.0.0"
+  },
+  "もぺもぺ": {
+    "pack": "single",
+    "ez": {
+      "level": 2.0,
+      "notes": 125,
+      "charter": "阿爽 fixed by Barbarianerman"
+    },
+    "hd": {
+      "level": 6.5,
+      "notes": 289,
+      "charter": "阿爽 fixed by Barbarianerman"
+    },
+    "in": {
+      "level": 11.1,
+      "notes": 412,
+      "charter": "阿爽"
+    },
+    "at": {
+      "level": 15.4,
+      "notes": 720,
+      "charter": "阿爽"
+    },
+    "artist": "LeaF",
+    "duration": "1:50",
+    "illustration": "cycat",
+    "version": "1.0.0"
+  },
+  "MARENOL": {
+    "pack": "single",
+    "ez": {
+      "level": 2.0,
+      "notes": 95,
+      "charter": "Catcats fixed by Barbarianerman"
+    },
+    "hd": {
+      "level": 10.3,
+      "notes": 467,
+      "charter": "Catcats fixed by Barbarianerman"
+    },
+    "in": {
+      "level": 13.9,
+      "notes": 689,
+      "charter": "百九十八"
+    },
+    "artist": "LeaF",
+    "duration": "2:29",
+    "illustration": "喵n葵",
+    "version": "1.0.0"
+  },
+  "萤火虫の怨": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 245,
+      "charter": "阿爽 & 百九十八"
+    },
+    "hd": {
+      "level": 9.8,
+      "notes": 746,
+      "charter": "阿爽 & 百九十八"
+    },
+    "in": {
+      "level": 13.0,
+      "notes": 885,
+      "charter": "阿爽 & 百九十八"
+    },
+    "artist": "闫东炜",
+    "duration": "2:38",
+    "illustration": "L-sp4",
+    "version": "1.0.0"
+  },
+  "万吨匿名信": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 307,
+      "charter": "Catcats & 百九十八"
+    },
+    "hd": {
+      "level": 9.5,
+      "notes": 648,
+      "charter": "Catcats & 百九十八"
+    },
+    "in": {
+      "level": 13.3,
+      "notes": 781,
+      "charter": "Catcats & 百九十八"
+    },
+    "artist": "闫东炜",
+    "duration": "2:45",
+    "illustration": "IvyTowers",
+    "version": "1.0.0"
+  },
+  "风屿": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 368,
+      "charter": "阿爽 vs. Catcats vs. 百九十八"
+    },
+    "hd": {
+      "level": 9.8,
+      "notes": 802,
+      "charter": "阿爽 vs. Catcats vs. 百九十八"
+    },
+    "in": {
+      "level": 14.0,
+      "notes": 1155,
+      "charter": "阿爽 vs. Catcats vs. 百九十八"
+    },
+    "at": {
+      "level": 15.1,
+      "notes": 1236,
+      "charter": "JKy"
+    },
+    "artist": "闫东炜",
+    "duration": "2:59",
+    "illustration": "cycats",
+    "version": "1.0.0"
+  },
+  "dB doll": {
+    "pack": "single",
+    "ez": {
+      "level": 1.5,
+      "notes": 60,
+      "charter": "阿爽 fixed by Barbarianerman"
+    },
+    "hd": {
+      "level": 3.5,
+      "notes": 124,
+      "charter": "阿爽 fixed by Barbarianerman"
+    },
+    "in": {
+      "level": 8.3,
+      "notes": 237,
+      "charter": "阿爽"
+    },
+    "at": {
+      "level": 13.6,
+      "notes": 377,
+      "charter": "NerSAN & 百九十八"
+    },
+    "artist": "YUE.STEVEN/uen",
+    "duration": "1:49",
+    "illustration": "何呵",
+    "version": "1.0.0"
+  },
+  "Dash": {
+    "pack": "single",
+    "ez": {
+      "level": 2.5,
+      "notes": 114,
+      "charter": "阿爽 fixed by Barbarianerman"
+    },
+    "hd": {
+      "level": 5.5,
+      "notes": 210,
+      "charter": "阿爽 fixed by Barbarianerman"
+    },
+    "in": {
+      "level": 9.7,
+      "notes": 346,
+      "charter": "JKy"
+    },
+    "artist": "小红Akane/李祥晖",
+    "duration": "1:54",
+    "illustration": "艾是Abby",
+    "version": "1.0.0"
+  },
+  "云女孩": {
+    "pack": "single",
+    "ez": {
+      "level": 2.0,
+      "notes": 220,
+      "charter": "Cloud Catcats"
+    },
+    "hd": {
+      "level": 8.9,
+      "notes": 538,
+      "charter": "Cloud Catcats"
+    },
+    "in": {
+      "level": 12.8,
+      "notes": 669,
+      "charter": "JKy"
+    },
+    "artist": "符白牙/SiYFics",
+    "duration": "2:59",
+    "illustration": "御坂果子",
+    "version": "1.0.0"
+  },
+  "Drop It": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 505,
+      "charter": "Drop Catcats"
+    },
+    "hd": {
+      "level": 9.2,
+      "notes": 602,
+      "charter": "Drop Catcats"
+    },
+    "in": {
+      "level": 14.2,
+      "notes": 1031,
+      "charter": "NerSAN & 百九十八"
+    },
+    "artist": "Asuka",
+    "duration": "3:23",
+    "illustration": "TNiK",
+    "version": "1.0.0"
+  },
+  "RIPPER": {
+    "pack": "single",
+    "ez": {
+      "level": 6.5,
+      "notes": 520,
+      "charter": "撕裂者『Catcats』 fixed by 晨"
+    },
+    "hd": {
+      "level": 11.7,
+      "notes": 704,
+      "charter": "撕裂者『Catcats』 fixed by 晨"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 1186,
+      "charter": "撕裂者 『Barbarianerman vs. 晨』"
+    },
+    "artist": "Friedwav",
+    "duration": "3:19",
+    "illustration": "何呵",
+    "version": "1.0.0"
+  },
+  "Aphasia": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 283,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 8.8,
+      "notes": 362,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 13.3,
+      "notes": 553,
+      "charter": "百九十八"
+    },
+    "artist": "闫东炜",
+    "duration": "1:56",
+    "illustration": "笔记RE",
+    "version": "1.2.0"
+  },
+  "开心病": {
+    "pack": "single",
+    "ez": {
+      "level": 7.0,
+      "notes": 399,
+      "charter": "HaraKuma"
+    },
+    "hd": {
+      "level": 11.9,
+      "notes": 601,
+      "charter": "HaraKuma"
+    },
+    "in": {
+      "level": 13.8,
+      "notes": 840,
+      "charter": "Barbarianerman feat. 晨"
+    },
+    "artist": "闫东炜",
+    "duration": "1:55",
+    "illustration": "昔璃",
+    "version": "1.2.0"
+  },
+  "華灯爱": {
+    "pack": "single",
+    "ez": {
+      "level": 6.0,
+      "notes": 312,
+      "charter": "HaraKuma"
+    },
+    "hd": {
+      "level": 10.6,
+      "notes": 357,
+      "charter": "HaraKuma"
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 520,
+      "charter": "Barbarianerman"
+    },
+    "artist": "闫东炜",
+    "duration": "1:54",
+    "illustration": "IvyTowers",
+    "version": "1.2.0"
+  },
+  "Find_Me": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 465,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 10.5,
+      "notes": 657,
+      "charter": "Ctymax"
+    },
+    "in": {
+      "level": 14.3,
+      "notes": 836,
+      "charter": "Ctymax fixed by 百九十八"
+    },
+    "artist": "K-forest",
+    "duration": "2:08",
+    "illustration": "YuKiMuMa",
+    "version": "1.2.1"
+  },
+  "Sein": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 203,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 10.1,
+      "notes": 473,
+      "charter": "阿爽"
+    },
+    "in": {
+      "level": 15.1,
+      "notes": 721,
+      "charter": "阿爽&晨"
+    },
+    "artist": "朔(Apo11o program vs. お月さま交響曲) ft. kuroa×荒巻",
+    "duration": "1:59",
+    "illustration": "hideo",
+    "version": "1.2.1"
+  },
+  "狂喜蘭舞": {
+    "pack": "single",
+    "ez": {
+      "level": 7.0,
+      "notes": 472,
+      "charter": "Catcats fixed by 晨"
+    },
+    "hd": {
+      "level": 11.7,
+      "notes": 651,
+      "charter": "Catcats fixed by Pcat"
+    },
+    "in": {
+      "level": 14.3,
+      "notes": 968,
+      "charter": "晨"
+    },
+    "at": {
+      "level": 16.4,
+      "notes": 1325,
+      "charter": "Catcats fixed by Barbarianerman&晨"
+    },
+    "artist": "LeaF",
+    "duration": "2:42",
+    "illustration": "DoublePian",
+    "version": "1.2.1"
+  },
+  "Sparkle New Life": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 305,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 9.2,
+      "notes": 497,
+      "charter": "Ctymax"
+    },
+    "in": {
+      "level": 12.8,
+      "notes": 684,
+      "charter": "Ctymax fixed by 百九十八"
+    },
+    "artist": "rider",
+    "duration": "2:18",
+    "illustration": "1B",
+    "version": "1.2.2"
+  },
+  "Khronostasis Katharsis": {
+    "pack": "single",
+    "ez": {
+      "level": 6.0,
+      "notes": 369,
+      "charter": "XMT小咩兔 & Myna"
+    },
+    "hd": {
+      "level": 11.8,
+      "notes": 644,
+      "charter": "XMT小咩兔 & Myna"
+    },
+    "in": {
+      "level": 14.0,
+      "notes": 861,
+      "charter": "StupiGGy fixed by 百九十八"
+    },
+    "artist": "Halv",
+    "duration": "2:15",
+    "illustration": "utosao",
+    "version": "1.2.3"
+  },
+  "Snow Desert": {
+    "original": true,
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 364,
+      "charter": "VikingNexus"
+    },
+    "hd": {
+      "level": 10.3,
+      "notes": 459,
+      "charter": "VikingNexus"
+    },
+    "in": {
+      "level": 13.4,
+      "notes": 655,
+      "charter": "VikingNexus"
+    },
+    "artist": "WyvernP",
+    "duration": "2:23",
+    "illustration": "knife美工刀",
+    "version": "1.2.4"
+  },
+  "Burn": {
+    "pack": "single",
+    "ez": {
+      "level": 7.0,
+      "notes": 278,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 11.2,
+      "notes": 497,
+      "charter": "Catcats"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 707,
+      "charter": "Catcats vs. Ctymax"
+    },
+    "artist": "NceS",
+    "duration": "2:18",
+    "illustration": "knife美工刀",
+    "version": "1.2.4"
+  },
+  "Aleph-0": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 153,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 12.2,
+      "notes": 531,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 16.0,
+      "notes": 885,
+      "charter": "Clutter"
+    },
+    "artist": "LeaF",
+    "duration": "2:21",
+    "illustration": "Optie",
+    "version": "1.2.5"
+  },
+  "Next Time": {
+    "pack": "single",
+    "ez": {
+      "level": 6.0,
+      "notes": 240,
+      "charter": "Gausbon"
+    },
+    "hd": {
+      "level": 8.7,
+      "notes": 303,
+      "charter": "Gausbon"
+    },
+    "in": {
+      "level": 12.4,
+      "notes": 387,
+      "charter": "Gausbon"
+    },
+    "artist": "SaMZIng",
+    "duration": "1:51",
+    "illustration": "叶藤",
+    "version": "1.3.2"
+  },
+  "Rubbish Sorting": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 229,
+      "charter": "阿爽 vs. Ctymax -Haose 垃圾-"
+    },
+    "hd": {
+      "level": 9.4,
+      "notes": 475,
+      "charter": "阿爽 vs. Ctymax -Haose 垃圾-"
+    },
+    "in": {
+      "level": 13.2,
+      "notes": 613,
+      "charter": "阿爽 vs. Ctymax -Haose 垃圾-"
+    },
+    "artist": "Ctymax vs. NceS",
+    "duration": "2:46",
+    "illustration": "knife美工刀",
+    "version": "1.3.2"
+  },
+  "Dead Soul": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 273,
+      "charter": "Phigros Charting Team"
+    },
+    "hd": {
+      "level": 12.0,
+      "notes": 613,
+      "charter": "Phigros Charting Team"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 787,
+      "charter": "Phigros Charting Team"
+    },
+    "artist": "Sound Souler",
+    "duration": "2:27",
+    "illustration": "Photonskyto",
+    "version": "1.4.1"
+  },
+  "Speed Up!": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 262,
+      "charter": "Ctymax vs. 百九十八"
+    },
+    "hd": {
+      "level": 10.3,
+      "notes": 463,
+      "charter": "Ctymax vs. 百九十八"
+    },
+    "in": {
+      "level": 14.0,
+      "notes": 711,
+      "charter": "Ctymax vs. 百九十八"
+    },
+    "artist": "DarTokki",
+    "duration": "2:21",
+    "illustration": "TNiK",
+    "version": "1.4.3"
+  },
+  "Magenta Potion": {
+    "pack": "single",
+    "ez": {
+      "level": 6.5,
+      "notes": 334,
+      "charter": "Ctymax vs. 晨"
+    },
+    "hd": {
+      "level": 11.3,
+      "notes": 631,
+      "charter": "Ctymax vs. 晨"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 781,
+      "charter": "Ctymax vs. 晨"
+    },
+    "artist": "EmoCo.",
+    "duration": "2:27",
+    "illustration": "NOISER",
+    "version": "1.4.3"
+  },
+  "Get Back": {
+    "pack": "single",
+    "ez": {
+      "level": 6.5,
+      "notes": 321,
+      "charter": "JKy"
+    },
+    "hd": {
+      "level": 10.7,
+      "notes": 550,
+      "charter": "JKy"
+    },
+    "in": {
+      "level": 14.0,
+      "notes": 708,
+      "charter": "JKy"
+    },
+    "artist": "CAP3",
+    "duration": "2:24",
+    "illustration": "TNiK",
+    "version": "1.4.4"
+  },
+  "Palescreen": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 224,
+      "charter": "Jeitie"
+    },
+    "hd": {
+      "level": 12.3,
+      "notes": 772,
+      "charter": "Jeitie"
+    },
+    "in": {
+      "level": 15.9,
+      "notes": 1059,
+      "charter": "Jeitie"
+    },
+    "artist": "WyvernP feat. Madol",
+    "duration": "2:26",
+    "illustration": "GAMEBAKA",
+    "version": "1.4.5"
+  },
+  "The Mountain Eater": {
+    "pack": "single",
+    "artist": "Paul Bazooka",
+    "ez": {
+      "level": 5.5,
+      "notes": 210,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 9.6,
+      "notes": 386,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 697,
+      "charter": "百九十八"
+    },
+    "duration": "2:03",
+    "illustration": "START SEED",
+    "version": "1.5.0"
+  },
+  "Orthodox": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 312,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 8.5,
+      "notes": 446,
+      "charter": "StR-1"
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 963,
+      "charter": "Uvernight fixed by StR-1"
+    },
+    "duration": "2:21",
+    "artist": "tokiwa",
+    "illustration": "cycats",
+    "version": "1.5.2"
+  },
+  "End Me": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 217,
+      "charter": "鲲"
+    },
+    "hd": {
+      "level": 7.5,
+      "notes": 320,
+      "charter": "鲲"
+    },
+    "in": {
+      "level": 14.1,
+      "notes": 724,
+      "charter": "鲲 fixed by 百九十八"
+    },
+    "artist": "ZxNX as \"Delaina\"",
+    "duration": "2:10",
+    "illustration": "何呵",
+    "version": "1.5.2"
+  },
+  "Parallel Retrogression(Game Ver.)": {
+    "pack": "single",
+    "ez": {
+      "level": 7.0,
+      "notes": 507,
+      "charter": "HaraKuma"
+    },
+    "hd": {
+      "level": 10.9,
+      "notes": 697,
+      "charter": "HaraKuma"
+    },
+    "in": {
+      "level": 14.2,
+      "notes": 851,
+      "charter": "HaraKuma"
+    },
+    "duration": "2:23",
+    "artist": "1N6Fs",
+    "illustration": "青鸟",
+    "version": "1.5.3"
+  },
+  "Starduster": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 280,
+      "charter": "NerSAN"
+    },
+    "hd": {
+      "level": 11.4,
+      "notes": 578,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 874,
+      "charter": "NerSAN"
+    },
+    "duration": "2:10",
+    "artist": "Quree",
+    "illustration": "IvyTowers",
+    "version": "1.5.3"
+  },
+  "Electron": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 219,
+      "charter": "百九十八"
+    },
+    "hd": {
+      "level": 9.4,
+      "notes": 423,
+      "charter": "百九十八"
+    },
+    "in": {
+      "level": 13.2,
+      "notes": 576,
+      "charter": "百九十八"
+    },
+    "duration": "2:09",
+    "artist": "ElousΛ.-FZ",
+    "illustration": "DoublePian",
+    "version": "1.5.7"
+  },
+  "SIGMA": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 352,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 10.5,
+      "notes": 516,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 15.8,
+      "notes": 785,
+      "charter": "Barbarianerman"
+    },
+    "duration": "2:01",
+    "artist": "Kry.exe",
+    "illustration": "塔塔",
+    "version": "1.5.7"
+  },
+  "Hardcore Kwaya": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 340,
+      "charter": "One skunk (Ctymax) in Africa"
+    },
+    "hd": {
+      "level": 8.4,
+      "notes": 611,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 852,
+      "charter": "Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!"
+    },
+    "duration": "2:01",
+    "artist": "EnFr",
+    "illustration": "EnFr",
+    "version": "1.6.1"
+  },
+  "Äventyr": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 345,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 9.7,
+      "notes": 626,
+      "charter": "Snorkel"
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 954,
+      "charter": "Barbarianerman vs. Snorkel"
+    },
+    "artist": "Grand Thaw",
+    "duration": "2:40",
+    "illustration": "Grand Thaw / Rigël Theatre",
+    "version": "1.6.2"
+  },
+  "Träne": {
+    "pack": "single",
+    "ez": {
+      "level": 1.5,
+      "notes": 148,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 7.0,
+      "notes": 420,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 14.2,
+      "notes": 661,
+      "charter": "Barbarianerman"
+    },
+    "duration": "2:27",
+    "artist": "MALVA.",
+    "illustration": "しえろ",
+    "version": "1.6.2"
+  },
+  "雪降り、メリクリ": {
+    "original": true,
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 316,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 10.8,
+      "notes": 559,
+      "charter": "Merry Ctymaxhristym阿爽xS"
+    },
+    "in": {
+      "level": 15.4,
+      "notes": 939,
+      "charter": "NerSAN"
+    },
+    "artist": "A-39",
+    "duration": "2:38",
+    "illustration": "犀牛坨动画工坊",
+    "version": "1.6.2"
+  },
+  "Cervelle Connexion": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 301,
+      "charter": "TangScend"
+    },
+    "hd": {
+      "level": 11.3,
+      "notes": 569,
+      "charter": "TangScend"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 563,
+      "charter": "TangScend"
+    },
+    "artist": "SCTL",
+    "illustration": "SCTL",
+    "duration": "2:27",
+    "version": "1.6.3"
+  },
+  "modulus": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 258,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 10.4,
+      "notes": 482,
+      "charter": "Ctymax"
+    },
+    "in": {
+      "level": 14.9,
+      "notes": 774,
+      "charter": "Pat Brick Man Mr.C"
+    },
+    "artist": "PTB10",
+    "illustration": "geralt",
+    "duration": "2:00",
+    "version": "1.6.3"
+  },
+  "Shadow": {
+    "pack": "jmt",
+    "ez": {
+      "level": 6.5,
+      "notes": 393,
+      "charter": "晨"
+    },
+    "hd": {
+      "level": 10.5,
+      "notes": 549,
+      "charter": "晨"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 840,
+      "charter": "Sillyp vs. 晨"
+    },
+    "at": {
+      "level": 16.2,
+      "notes": 1089,
+      "charter": "JKy"
+    },
+    "artist": "姜米條&SumaiLight",
+    "illustration": "御坂果子",
+    "version": "1.6.4",
+    "duration": "2:42"
+  },
+  "Wavetapper": {
+    "pack": "single",
+    "ez": {
+      "level": 6.0,
+      "notes": 470,
+      "charter": "Sillyp"
+    },
+    "hd": {
+      "level": 9.4,
+      "notes": 507,
+      "charter": "Sillyp"
+    },
+    "in": {
+      "level": 13.9,
+      "notes": 866,
+      "charter": "百九十八 vs. Barbarianerman"
+    },
+    "artist": "Frums",
+    "illustration": "百九十八",
+    "duration": "2:42",
+    "version": "1.6.5"
+  },
+  "大和撫子 -Wild Dances-": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 274,
+      "charter": "Eaimo fixed by NerSAN"
+    },
+    "hd": {
+      "level": 11.8,
+      "notes": 549,
+      "charter": "Eaimo fixed by NerSAN"
+    },
+    "in": {
+      "level": 15.1,
+      "notes": 1002,
+      "charter": "Eaimo vs. CtymaxNerSAN dancing wildly"
+    },
+    "artist": "adaptor vs DRIVE.",
+    "illustration": "りゅうら",
+    "duration": "2:08",
+    "version": "1.6.6"
+  },
+  "Eltaw": {
+    "pack": "single",
+    "ez": {
+      "level": 7.0,
+      "notes": 391,
+      "charter": "JKy"
+    },
+    "hd": {
+      "level": 10.6,
+      "notes": 608,
+      "charter": "JKy"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 855,
+      "charter": "BarbarianermanNerSANman vs. JKy"
+    },
+    "artist": "Fl00t",
+    "illustration": "xperz",
+    "duration": "2:16",
+    "version": "1.6.6"
+  },
+  "Better Graphic Animation": {
+    "pack": "single",
+    "ez": {
+      "level": 6.0,
+      "notes": 178,
+      "charter": "NerSAN"
+    },
+    "hd": {
+      "level": 11.1,
+      "notes": 469,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 616,
+      "charter": "Catcats"
+    },
+    "artist": "ルゼ",
+    "illustration": "A-Zero Project",
+    "duration": "1:42",
+    "version": "1.6.7"
+  },
+  "With You": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 226,
+      "charter": "Uvernight"
+    },
+    "hd": {
+      "level": 9.1,
+      "notes": 654,
+      "charter": "Uvernight"
+    },
+    "in": {
+      "level": 13.5,
+      "notes": 774,
+      "charter": "Uvernight"
+    },
+    "artist": "Cashew",
+    "duration": "2:06",
+    "illustration": "ADZUKI",
+    "version": "1.6.9"
+  },
+  "Unorthodox Thoughts": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "charter": "Barbarianerman",
+      "notes": 512
+    },
+    "hd": {
+      "level": 12.0,
+      "charter": "HaraKuma",
+      "notes": 644
+    },
+    "in": {
+      "level": 13.9,
+      "notes": 729,
+      "charter": "Barbarianerman vs. HaraKuma"
+    },
+    "artist": "Joulez",
+    "duration": "2:24",
+    "illustration": "ASXX",
+    "version": "1.6.9"
+  },
+  "Apocalyptic": {
+    "pack": "single",
+    "ez": {
+      "level": 3.0,
+      "notes": 282,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 9.6,
+      "notes": 329,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 13.8,
+      "notes": 676,
+      "charter": "NerSAN vs. 阿爽"
+    },
+    "artist": "Z ClaxX & SumaiLight",
+    "duration": "2:09",
+    "illustration": "佑木いずみ & Ctymax",
+    "version": "1.6.10"
+  },
+  "游园地": {
+    "pack": "single",
+    "ez": {
+      "level": 2.5,
+      "notes": 220,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 7.5,
+      "notes": 444,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.2,
+      "notes": 481,
+      "charter": "NerSAN"
+    },
+    "artist": "椒盐菠萝",
+    "duration": "2:07",
+    "illustration": "CEM",
+    "version": "1.6.10"
+  },
+  "energy trixxx": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 252,
+      "charter": "NerSAN"
+    },
+    "hd": {
+      "level": 10.4,
+      "notes": 477,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 15.4,
+      "notes": 930,
+      "charter": "NerSAN"
+    },
+    "artist": "KAH",
+    "duration": "2:25",
+    "illustration": "手鞠鈴 & 自動車 原付",
+    "version": "1.6.11"
+  },
+  "Nhelv": {
+    "pack": "single",
+    "ez": {
+      "level": 1.5,
+      "notes": 196,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 12.0,
+      "notes": 521,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 833,
+      "charter": "TangScend vs. 百九十八"
+    },
+    "artist": "Silentroom",
+    "duration": "2:39",
+    "illustration": "駿",
+    "version": "2.0.0"
+  },
+  "-Arkhei-": {
+    "pack": "single",
+    "ez": {
+      "level": 7.5,
+      "notes": 462,
+      "charter": "JKy"
+    },
+    "hd": {
+      "level": 8.8,
+      "notes": 454,
+      "charter": "JKy"
+    },
+    "in": {
+      "level": 12.6,
+      "notes": 644,
+      "charter": "JKy"
+    },
+    "artist": "Sera Amagi",
+    "duration": "2:37",
+    "illustration": "Hachimitsu☆Boy",
+    "version": "2.0.0"
+  },
+  "Kerberos": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 262,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 12.4,
+      "notes": 683,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 15.8,
+      "notes": 978,
+      "charter": "Snorkel vs. NerSAN"
+    },
+    "artist": "Zris",
+    "duration": "2:07",
+    "illustration": "Eridani",
+    "version": "2.0.0"
+  },
+  "ρars/ey": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 181,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 11.7,
+      "notes": 449,
+      "charter": "Rikko & TangScend"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 777,
+      "charter": "TangScend"
+    },
+    "artist": "siqlo",
+    "duration": "2:04",
+    "illustration": "出前 x nekomiya",
+    "version": "2.0.1"
+  },
+  "Time to Night Sky (feat. Lee Yu Jin)": {
+    "pack": "kalpa",
+    "ez": {
+      "level": 3.0,
+      "notes": 165,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 10.1,
+      "notes": 559,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.6,
+      "notes": 540,
+      "charter": "Likey & 百九十八Barbarianerman"
+    },
+    "artist": "HyuN & KLYDIX",
+    "duration": "2:11",
+    "illustration": "ZG",
+    "version": "2.1.0"
+  },
+  "HAZARD": {
+    "pack": "kalpa",
+    "ez": {
+      "level": 4.5,
+      "notes": 283,
+      "charter": "NerSAN"
+    },
+    "hd": {
+      "level": 11.0,
+      "notes": 507,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 588,
+      "charter": "阿爽"
+    },
+    "artist": "Limpid",
+    "duration": "2:07",
+    "illustration": "ZG",
+    "version": "2.1.0"
+  },
+  "Another Me (D_AAN)": {
+    "pack": "kalpa",
+    "ez": {
+      "level": 5.0,
+      "notes": 455,
+      "charter": "Pcat"
+    },
+    "hd": {
+      "level": 9.8,
+      "notes": 715,
+      "charter": "Pcat"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 1449,
+      "charter": "NerSAN vs. Ctymax as \"泥头鱼\""
+    },
+    "artist": "D_AAN",
+    "duration": "2:46",
+    "illustration": "ZG",
+    "version": "2.1.0"
+  },
+  "Don't Never Around": {
+    "pack": "kalpa",
+    "ez": {
+      "level": 5.0,
+      "notes": 308,
+      "charter": "XMT小咩兔"
+    },
+    "hd": {
+      "level": 11.3,
+      "notes": 639,
+      "charter": "XMT小咩兔"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 1028,
+      "charter": "XMT小咩兔"
+    },
+    "artist": "HAMA",
+    "duration": "1:59",
+    "illustration": "Arahosi",
+    "version": "2.1.0"
+  },
+  "RESSiSTANCE": {
+    "pack": "kalpa",
+    "ez": {
+      "level": 6.5,
+      "notes": 499,
+      "charter": "JKy"
+    },
+    "hd": {
+      "level": 11.2,
+      "notes": 744,
+      "charter": "JKy"
+    },
+    "in": {
+      "level": 16.1,
+      "notes": 1026,
+      "charter": "TangScend"
+    },
+    "artist": "ぐるたみん",
+    "duration": "2:28",
+    "illustration": "LINUS",
+    "version": "2.1.0"
+  },
+  "Concvssion": {
+    "pack": "single",
+    "ez": {
+      "level": 6.0,
+      "notes": 450,
+      "charter": "J.R"
+    },
+    "hd": {
+      "level": 11.3,
+      "notes": 700,
+      "charter": "晨"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 1000,
+      "charter": "Phigros Charting Team"
+    },
+    "artist": "Halv",
+    "duration": "2:31",
+    "illustration": "汉堡",
+    "original": true,
+    "version": "2.1.0"
+  },
+  "ジングルベル(Jingle Bell)": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 639,
+      "charter": "merry CN_115risTimiTinias"
+    },
+    "hd": {
+      "level": 8.5,
+      "notes": 492,
+      "charter": "merry XMT小咩兔 阿爽"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 1239,
+      "charter": "NerSAN vs. Barbarianerman"
+    },
+    "artist": "A-39/沙包P",
+    "duration": "2:47",
+    "illustration": "爱39的Konya",
+    "original": true,
+    "version": "2.1.0"
+  },
+  "Dreamland": {
+    "pack": "single",
+    "ez": {
+      "level": 7.0,
+      "notes": 338,
+      "charter": "iv"
+    },
+    "hd": {
+      "level": 10.3,
+      "notes": 476,
+      "charter": "iv"
+    },
+    "in": {
+      "level": 13.6,
+      "notes": 627,
+      "charter": "XMT小咩兔 & 百九十八"
+    },
+    "artist": "z1on & kyrrin",
+    "duration": "2:32",
+    "illustration": "海产",
+    "version": "2.1.1"
+  },
+  "Another Round": {
+    "pack": "single",
+    "ez": {
+      "level": 2.5,
+      "notes": 136,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 9.6,
+      "notes": 353,
+      "charter": "Another Stage"
+    },
+    "in": {
+      "level": 13.3,
+      "notes": 505,
+      "charter": "TimiTini →\"X\"← 阿爽"
+    },
+    "artist": "Justin Dai",
+    "duration": "2:24",
+    "illustration": "艾是Abby",
+    "version": "2.1.1"
+  },
+  "996": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 392,
+      "charter": "RTH"
+    },
+    "hd": {
+      "level": 9.4,
+      "notes": 453,
+      "charter": "Likey"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 996,
+      "charter": "Barbarianerman & NerSAN in the ICU"
+    },
+    "artist": "李化禹",
+    "duration": "2:34",
+    "illustration": "笔记RE",
+    "version": "2.1.1"
+  },
+  "Future Mind": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 365,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 11.0,
+      "notes": 570,
+      "charter": "XMT小咩兔"
+    },
+    "in": {
+      "level": 14.3,
+      "notes": 866,
+      "charter": "Future BarbarianermanXMT小咩兔"
+    },
+    "artist": "Ray Nautica & Reku Mochizuki",
+    "duration": "2:13",
+    "illustration": "Keiby.comics",
+    "version": "2.1.2"
+  },
+  "Luminescent": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 330,
+      "charter": "Uvernight"
+    },
+    "hd": {
+      "level": 9.7,
+      "notes": 608,
+      "charter": "Uvernight"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 650,
+      "charter": "百九十八"
+    },
+    "artist": "Daison",
+    "duration": "2:37",
+    "illustration": "鲸弑",
+    "version": "2.1.3"
+  },
+  "Demiurge": {
+    "pack": "side2",
+    "ez": {
+      "level": 1.5,
+      "notes": 100,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 7.5,
+      "notes": 445,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 11.8,
+      "notes": 520,
+      "charter": "晨"
+    },
+    "artist": "Rabpit",
+    "duration": "2:49",
+    "illustration": "青鸟",
+    "original": true,
+    "version": "2.1.3"
+  },
+  "FULi AUTO BUSTER": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 285,
+      "charter": "M3d1uM & 百九十八"
+    },
+    "hd": {
+      "level": 9.8,
+      "notes": 596,
+      "charter": "M3d1uM & 百九十八"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 755,
+      "charter": "百九十八 busting 阿爽"
+    },
+    "artist": "MYUKKE.",
+    "duration": "2:05",
+    "illustration": "cycats",
+    "version": "2.1.4"
+  },
+  "Demonkin": {
+    "pack": "side2",
+    "ez": {
+      "level": 4.5,
+      "notes": 426,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 9.2,
+      "notes": 513,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.8,
+      "notes": 829,
+      "charter": "Sillyp & Barbarianerman"
+    },
+    "artist": "Forged Reigns",
+    "duration": "2:18",
+    "illustration": "Jeferry",
+    "original": true,
+    "version": "2.2.0"
+  },
+  "Re_Nascence (Psystyle Ver.)": {
+    "pack": "side2",
+    "ez": {
+      "level": 5.5,
+      "notes": 378,
+      "charter": "NerSAN"
+    },
+    "hd": {
+      "level": 11.7,
+      "notes": 806,
+      "charter": "NerSAN"
+    },
+    "in": {
+      "level": 14.3,
+      "notes": 827,
+      "charter": "NerSAN & 百九十八"
+    },
+    "artist": "Rinth_live",
+    "duration": "2:27",
+    "illustration": "Tsuioku",
+    "version": "2.2.0"
+  },
+  "Ark": {
+    "pack": "side2",
+    "ez": {
+      "level": 3.5,
+      "notes": 290,
+      "charter": "TimiTini"
+    },
+    "hd": {
+      "level": 9.5,
+      "notes": 523,
+      "charter": "TimiTini"
+    },
+    "in": {
+      "level": 15.0,
+      "notes": 726,
+      "charter": "阿爽 eat Ctymax"
+    },
+    "at": {
+      "level": 16.5,
+      "notes": 1091,
+      "charter": "StupiGGy"
+    },
+    "artist": "kanoryo",
+    "duration": "2:40",
+    "illustration": "MOAI WORKS",
+    "version": "2.2.0"
+  },
+  "After Dawn": {
+    "pack": "side2",
+    "ez": {
+      "level": 3.0,
+      "notes": 194,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 10.4,
+      "notes": 478,
+      "charter": "NerSAN feat. Pcat"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 975,
+      "charter": "BarbarianermanNerSAN feat. Snorkel"
+    },
+    "artist": "S9ryne",
+    "duration": "2:22",
+    "illustration": "月亮酱",
+    "version": "2.2.0"
+  },
+  "INFiNiTE ENERZY -Overdoze-": {
+    "pack": "side2",
+    "ez": {
+      "level": 6.5,
+      "notes": 333,
+      "charter": "TangScend"
+    },
+    "hd": {
+      "level": 12.3,
+      "notes": 666,
+      "charter": "<<<1|while(TangScend>=TangScend);>>>"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 888,
+      "charter": "TangScend"
+    },
+    "at": {
+      "level": 16.8,
+      "notes": 888,
+      "charter": "TangScend"
+    },
+    "artist": "Reku Mochizuki",
+    "duration": "2:01",
+    "illustration": "knife美工刀",
+    "version": "2.2.0"
+  },
+  "I Must Say No": {
+    "pack": "single",
+    "ez": {
+      "level": 1.5,
+      "notes": 76,
+      "charter": "Likey"
+    },
+    "hd": {
+      "level": 9.2,
+      "notes": 364,
+      "charter": "JKy"
+    },
+    "in": {
+      "level": 13.5,
+      "notes": 470,
+      "charter": "Likey & 百九十八"
+    },
+    "artist": "TangJuan",
+    "duration": "1:59",
+    "illustration": "cycats",
+    "version": "2.2.1"
+  },
+  "opia": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 233,
+      "charter": "BlindForest"
+    },
+    "hd": {
+      "level": 10.6,
+      "notes": 549,
+      "charter": "BlindForest 『Observing』"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 793,
+      "charter": "Jeitie & CorruptedEntity 『Hollow』"
+    },
+    "artist": "rN",
+    "duration": "2:49",
+    "illustration": "rN @ 湯元画伯",
+    "version": "2.2.1"
+  },
+  "Apocalypse": {
+    "pack": "lanota",
+    "ez": {
+      "level": 4.0,
+      "notes": 207,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 8.6,
+      "notes": 382,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.5,
+      "notes": 676,
+      "charter": "Rikko & 百九十八"
+    },
+    "artist": "アリスシャッハと魔法の楽団",
+    "duration": "2:45",
+    "illustration": "Lanota ⓒ Noxy Game Inc.",
+    "version": "2.3.0"
+  },
+  "Protoflicker": {
+    "pack": "lanota",
+    "ez": {
+      "level": 3.5,
+      "notes": 259,
+      "charter": "Barbarianerman & J.R"
+    },
+    "hd": {
+      "level": 9.7,
+      "notes": 511,
+      "charter": "RTH"
+    },
+    "in": {
+      "level": 15.4,
+      "notes": 1210,
+      "charter": "Gausbon"
+    },
+    "artist": "Silentroom",
+    "duration": "2:48",
+    "illustration": "Lanota ⓒ Noxy Game Inc.",
+    "version": "2.3.0"
+  },
+  "Horizon Blue": {
+    "pack": "lanota",
+    "ez": {
+      "level": 6.5,
+      "notes": 519,
+      "charter": "Nothing But Uvernight"
+    },
+    "hd": {
+      "level": 11.6,
+      "notes": 733,
+      "charter": "Nothing But Likey"
+    },
+    "in": {
+      "level": 15.7,
+      "notes": 1084,
+      "charter": "Nothing But NerSAN & Pcat"
+    },
+    "artist": "Nothing But Requiem feat. Aikapin & Chiyoko",
+    "duration": "2:48",
+    "illustration": "Lanota ⓒ Noxy Game Inc.",
+    "version": "2.3.0"
+  },
+  "You are the Miserable": {
+    "pack": "lanota",
+    "ez": {
+      "level": 6.0,
+      "notes": 486,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 11.7,
+      "notes": 762,
+      "charter": "M3d1uM"
+    },
+    "in": {
+      "level": 14.1,
+      "notes": 893,
+      "charter": "We are the Miserable"
+    },
+    "at": {
+      "level": 15.8,
+      "notes": 1344,
+      "charter": "Pat Brick Man Ctymax & Barbarianerman"
+    },
+    "artist": "t+pazolite",
+    "duration": "2:44",
+    "illustration": "Lanota ⓒ Noxy Game Inc.",
+    "version": "2.3.0"
+  },
+  "Stasis": {
+    "pack": "lanota",
+    "ez": {
+      "level": 5.0,
+      "notes": 446,
+      "charter": "亚树见希子"
+    },
+    "hd": {
+      "level": 10.1,
+      "notes": 902,
+      "charter": "亚树见希子"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 1322,
+      "charter": "StupiGGy 阿爽 is XMT小咩兔"
+    },
+    "at": {
+      "level": 16.7,
+      "notes": 1700,
+      "charter": "百九十八"
+    },
+    "artist": "Maozon",
+    "duration": "2:35",
+    "illustration": "Lanota ⓒ Noxy Game Inc.",
+    "version": "2.3.0"
+  },
+  "いざ、参ります": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 188,
+      "charter": "Clutter & Barbarianerman"
+    },
+    "hd": {
+      "level": 9.2,
+      "notes": 441,
+      "charter": "Clutter & Barbarianerman"
+    },
+    "in": {
+      "level": 15.0,
+      "notes": 865,
+      "charter": "XMT小咩兔、参上"
+    },
+    "artist": "U-ske feat. 棗いつき",
+    "duration": "1:42",
+    "illustration": "緑風マルト",
+    "version": "2.3.1"
+  },
+  "月下缭乱": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 419,
+      "charter": "XMT小咩兔"
+    },
+    "hd": {
+      "level": 9.4,
+      "notes": 533,
+      "charter": "XMT小咩兔"
+    },
+    "in": {
+      "level": 14.9,
+      "notes": 969,
+      "charter": "iv"
+    },
+    "artist": "LUNARiUM",
+    "duration": "2:30",
+    "illustration": "TNiK",
+    "version": "2.3.2"
+  },
+  "On And On!!": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 195,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 9.6,
+      "notes": 323,
+      "charter": "Rikko"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 830,
+      "charter": "NerSAN feat. Takanashi Rikko"
+    },
+    "artist": "ETIA. feat. Jenga",
+    "duration": "2:01",
+    "illustration": "わっふゑ",
+    "version": "2.3.3"
+  },
+  "心之所向": {
+    "pack": "jmt",
+    "ez": {
+      "level": 4.0,
+      "notes": 226,
+      "charter": "波之所杂"
+    },
+    "hd": {
+      "level": 8.2,
+      "notes": 422,
+      "charter": "波之所杂"
+    },
+    "in": {
+      "level": 13.6,
+      "notes": 713,
+      "charter": "倪之所爽"
+    },
+    "artist": "姜米條",
+    "duration": "2:16",
+    "illustration": "笔记RE",
+    "original": "True",
+    "version": "2.4.0"
+  },
+  "inferior": {
+    "pack": "jmt",
+    "ez": {
+      "level": 7.0,
+      "notes": 226,
+      "charter": "NerSAN, the inferior"
+    },
+    "hd": {
+      "level": 7.5,
+      "notes": 489,
+      "charter": "NerSAN, the inferior"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 755,
+      "charter": "JKy, the inferior"
+    },
+    "artist": "姜米條",
+    "duration": "2:06",
+    "illustration": "群青kurara",
+    "original": "True",
+    "version": "2.4.0"
+  },
+  "DataErr0r": {
+    "pack": "single",
+    "ez": {
+      "level": 6.0,
+      "notes": 50,
+      "charter": "[!!12:|<|<o!!]"
+    },
+    "hd": {
+      "level": 11.8,
+      "notes": 400,
+      "charter": "Rikko"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 613,
+      "charter": "TangScend -Err0rederci-"
+    },
+    "artist": "Cosmograph",
+    "duration": "2:06",
+    "illustration": "Photonskyto",
+    "version": "2.4.0"
+  },
+  "c.s.q.n": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 330,
+      "charter": "b.b.n.m"
+    },
+    "hd": {
+      "level": 12.2,
+      "notes": 755,
+      "charter": "h.o.m.e.e.e."
+    },
+    "in": {
+      "level": 15.9,
+      "notes": 1066,
+      "charter": "s.t.p.g"
+    },
+    "artist": "Aoi",
+    "duration": "2:05",
+    "illustration": "Ctymax vs. TNiK feat. 出前",
+    "version": "2.4.1"
+  },
+  "Brave Notes": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 299,
+      "charter": "Brave Eaimo"
+    },
+    "hd": {
+      "level": 11.4,
+      "notes": 442,
+      "charter": "Brave Eaimo"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 768,
+      "charter": "Brave Eaimo"
+    },
+    "artist": "Turquoise(DRIVE.+Nota)",
+    "duration": "1:58",
+    "illustration": "林语",
+    "version": "2.4.1"
+  },
+  "盏茗": {
+    "pack": "tea",
+    "ez": {
+      "level": 1.5,
+      "notes": 83,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 4.5,
+      "notes": 176,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.3,
+      "notes": 706,
+      "charter": "NerSAN sipping XMT小咩兔"
+    },
+    "artist": "茶鸣拾贰律",
+    "duration": "2:10",
+    "illustration": "茶鸣拾贰律",
+    "version": "2.4.2"
+  },
+  "青芽": {
+    "pack": "tea",
+    "ez": {
+      "level": 5.0,
+      "notes": 366,
+      "charter": "生根发芽的小咩兔"
+    },
+    "hd": {
+      "level": 10.4,
+      "notes": 520,
+      "charter": "逆流而上的小咩兔"
+    },
+    "in": {
+      "level": 15.1,
+      "notes": 1102,
+      "charter": "阿爽 vs. TangScend"
+    },
+    "artist": "茶鸣拾贰律",
+    "duration": "2:27",
+    "illustration": "茶鸣拾贰律",
+    "version": "2.4.2"
+  },
+  "Eternal Snow": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 288,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 9.6,
+      "notes": 533,
+      "charter": "M3d1uM"
+    },
+    "in": {
+      "level": 13.5,
+      "notes": 700,
+      "charter": "JKy"
+    },
+    "artist": "Abyss Idols",
+    "duration": "2:35",
+    "illustration": "Sak",
+    "version": "2.4.3"
+  },
+  "Rainy Season": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 304,
+      "charter": "StupiGGy"
+    },
+    "hd": {
+      "level": 10.7,
+      "notes": 594,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 14.2,
+      "notes": 660,
+      "charter": "Likey Season"
+    },
+    "artist": "Abyss Idols",
+    "duration": "1:55",
+    "illustration": "Robin",
+    "version": "2.4.3"
+  },
+  "El Condor Pasa (Phigros Edit)": {
+    "pack": "single",
+    "ez": {
+      "level": 6.5,
+      "notes": 259,
+      "charter": "TimiTini"
+    },
+    "hd": {
+      "level": 12.5,
+      "notes": 585,
+      "charter": "TimiTini"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 1140,
+      "charter": "XMT小咩兔"
+    },
+    "artist": "Plastic Fruits",
+    "duration": "2:13",
+    "illustration": "青鸟",
+    "original": true,
+    "version": "2.4.4"
+  },
+  "Break Over": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 300,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 11.5,
+      "notes": 919,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 14.1,
+      "notes": 910,
+      "charter": "百九十八 vs Barbarianerman"
+    },
+    "at": {
+      "level": 14.9,
+      "notes": 570,
+      "charter": "百九十八"
+    },
+    "artist": "K-forest",
+    "duration": "2:10",
+    "illustration": "圆规compasses",
+    "original": true,
+    "version": "2.4.4"
+  },
+  "Believe Light (feat. 果丸哒呦)": {
+    "pack": "single",
+    "ez": {
+      "level": 2.5,
+      "notes": 264,
+      "charter": "Believe Ctymax"
+    },
+    "hd": {
+      "level": 8.9,
+      "notes": 580,
+      "charter": "Believe TimiTini"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 972,
+      "charter": "Believe Ctymax & TimiTini"
+    },
+    "artist": "Scaler & Mestie & 果丸哒呦",
+    "duration": "2:50",
+    "illustration": "圆规compasses",
+    "original": true,
+    "version": "2.4.5"
+  },
+  "Pont des souvenirs": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 461,
+      "charter": "JKy"
+    },
+    "hd": {
+      "level": 10.7,
+      "notes": 567,
+      "charter": "JKy"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 899,
+      "charter": "晨"
+    },
+    "artist": "VeetaCrush vs. Itsuki",
+    "duration": "2:45",
+    "illustration": "林语",
+    "version": "2.4.5"
+  },
+  "青丘": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 284,
+      "charter": "Ctymax"
+    },
+    "hd": {
+      "level": 10.5,
+      "notes": 543,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 1304,
+      "charter": "JKy"
+    },
+    "artist": "BLACK 0",
+    "duration": "2:47",
+    "illustration": "BLACK 0",
+    "version": "2.4.6"
+  },
+  "瓷岁": {
+    "pack": "tea",
+    "ez": {
+      "level": 2.0,
+      "notes": 120,
+      "charter": "Su1fuR年大吉"
+    },
+    "hd": {
+      "level": 6.5,
+      "notes": 309,
+      "charter": "Su1fuR年大吉"
+    },
+    "in": {
+      "level": 7.0,
+      "notes": 365,
+      "charter": "XMT小咩兔年大吉"
+    },
+    "artist": "茶鸣拾贰律",
+    "duration": "2:47",
+    "illustration": "茶鸣拾贰律",
+    "version": "2.4.7"
+  },
+  "Feast远东之宴": {
+    "pack": "tea",
+    "ez": {
+      "level": 6.5,
+      "notes": 600,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 12.1,
+      "notes": 800,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 1000,
+      "charter": "Gino"
+    },
+    "artist": "茶鸣拾贰律",
+    "duration": "2:30",
+    "illustration": "茶鸣拾贰律",
+    "original": true,
+    "version": "2.4.7"
+  },
+  "インフェルノシティ": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 352,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 11.5,
+      "notes": 578,
+      "charter": "Barbarianerman feat. Uvernight"
+    },
+    "in": {
+      "level": 15.7,
+      "notes": 1275,
+      "charter": "Barbarianerman"
+    },
+    "artist": "Ponchi♪ feat. はぁち",
+    "illustration": "LESYEF & 藍瀬 まなみ",
+    "duration": "2:04",
+    "version": "2.5.0"
+  },
+  "Poison AND÷OR Affection": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 140,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 9.9,
+      "notes": 278,
+      "charter": "Rikko"
+    },
+    "in": {
+      "level": 15.7,
+      "notes": 888,
+      "charter": "百九十八"
+    },
+    "artist": "LeaF",
+    "illustration": "笔记RE & 海产",
+    "duration": "2:05",
+    "version": "2.5.0"
+  },
+  "Upshift": {
+    "pack": "single",
+    "ez": {
+      "level": 6.0,
+      "notes": 630,
+      "charter": "Lumiere"
+    },
+    "hd": {
+      "level": 10.8,
+      "notes": 545,
+      "charter": "CorruptedEntity & Barbarianerman"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 946,
+      "charter": "TangScend"
+    },
+    "artist": "s-don",
+    "illustration": "Iriss=Frantzz=s-don",
+    "duration": "2:21",
+    "version": "2.5.0"
+  },
+  "Random": {
+    "pack": "single",
+    "ez": {
+      "level": 5.5,
+      "notes": 275,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 12.2,
+      "notes": 568,
+      "charter": "Rikko"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 732,
+      "charter": "TangScend"
+    },
+    "artist": "Sobrem X Silentroom",
+    "duration": "2:16",
+    "illustration": "Harkiadel",
+    "version": "2.5.1"
+  },
+  "零號車輛": {
+    "pack": "paradigm",
+    "ez": {
+      "level": 7.5,
+      "notes": 594,
+      "charter": "零號Uvernight"
+    },
+    "hd": {
+      "level": 12.1,
+      "notes": 1058,
+      "charter": "壹號阿爽"
+    },
+    "in": {
+      "level": 16.2,
+      "notes": 1240,
+      "charter": "Pcat【零】百九十八"
+    },
+    "artist": "seatrus",
+    "duration": "2:23",
+    "illustration": "2Al4wU4",
+    "version": "2.5.1"
+  },
+  "Now Is The Time, Do It": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 246,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 11.2,
+      "notes": 777,
+      "charter": "M3d1uM"
+    },
+    "in": {
+      "level": 14.3,
+      "notes": 795,
+      "charter": "NerSAN"
+    },
+    "artist": "Roy Mikelate",
+    "duration": "2:14",
+    "illustration": "青鸟",
+    "version": "3.0.1"
+  },
+  "Bougainvillea": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 300,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 8.3,
+      "notes": 347,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.2,
+      "notes": 662,
+      "charter": "Barbarianerman"
+    },
+    "artist": "Jade",
+    "duration": "1:57",
+    "illustration": "TNiK",
+    "version": "3.0.1"
+  },
+  "神話": {
+    "pack": "overrapid",
+    "ez": {
+      "level": 4.0,
+      "notes": 289,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 8.7,
+      "notes": 433,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 13.5,
+      "notes": 735,
+      "charter": "Pcat & Uvernight"
+    },
+    "artist": "Pica & M2U",
+    "duration": "2:22",
+    "illustration": "mology (青鸟&V17AMax Modified)",
+    "version": "3.1.0"
+  },
+  "El último baile": {
+    "pack": "overrapid",
+    "ez": {
+      "level": 4.5,
+      "notes": 261,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 9.5,
+      "notes": 480,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 14.1,
+      "notes": 610,
+      "charter": "百九十八 feat. Likey"
+    },
+    "artist": "Θ",
+    "duration": "2:00",
+    "illustration": "mology (青鸟&V17AMax Modified)",
+    "version": "3.1.0"
+  },
+  "Trojan": {
+    "pack": "overrapid",
+    "ez": {
+      "level": 5.5,
+      "notes": 345,
+      "charter": "M3d1uM"
+    },
+    "hd": {
+      "level": 10.8,
+      "notes": 741,
+      "charter": "M3d1uM"
+    },
+    "in": {
+      "level": 15.0,
+      "notes": 1305,
+      "charter": "WARNING: XMT小咩兔 is infected by Trojan!!"
+    },
+    "artist": "litmus*",
+    "duration": "2:34",
+    "illustration": "Lapelristar (青鸟&V17AMax Modified)",
+    "version": "3.1.0"
+  },
+  "Temporal Shifting": {
+    "pack": "overrapid",
+    "ez": {
+      "level": 4.0,
+      "notes": 127,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 11.5,
+      "notes": 465,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 959,
+      "charter": "Gausbon vs. 阿爽"
+    },
+    "artist": "Lure Rabbit & V!C",
+    "duration": "2:22",
+    "illustration": "mology (青鸟&V17AMax Modified)",
+    "version": "3.1.0"
+  },
+  "Ad astra per aspera": {
+    "pack": "overrapid",
+    "ez": {
+      "level": 6.5,
+      "notes": 696,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 12.1,
+      "notes": 924,
+      "charter": "XMT小咩兔"
+    },
+    "in": {
+      "level": 16.3,
+      "notes": 1454,
+      "charter": "HaraKumaXMT小咩兔组"
+    },
+    "artist": "Rabbit House",
+    "duration": "2:24",
+    "illustration": "Lyrebird Ferdinant (青鸟&V17AMax Modified)",
+    "version": "3.1.0"
+  },
+  "A journey to the moonlight": {
+    "pack": "overrapid",
+    "ez": {
+      "level": 4.5,
+      "notes": 242,
+      "charter": "Rikko from 「PHIGROS MOON」"
+    },
+    "hd": {
+      "level": 10.7,
+      "notes": 555,
+      "charter": "Rikko from 「PHIGROS MOON」"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 1199,
+      "charter": "NerSAN & 百九十八 from 「PHIGROS MOON」"
+    },
+    "artist": "Yesod",
+    "duration": "2:30",
+    "illustration": "汉堡",
+    "version": "3.1.0"
+  },
+  "Rainy Heart": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 194,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 9.4,
+      "notes": 331,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 12.9,
+      "notes": 440,
+      "charter": "HaraKuma"
+    },
+    "artist": "BelieverInYou (阿卡姆巫师)",
+    "duration": "2:32",
+    "illustration": "Sodhelium",
+    "version": "3.1.1"
+  },
+  "Realms": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 216,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 10.2,
+      "notes": 562,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.8,
+      "notes": 673,
+      "charter": "NerSAN"
+    },
+    "artist": "Hinkik & A Himitsu",
+    "duration": "2:09",
+    "illustration": "圆规compasses",
+    "version": "3.1.1"
+  },
+  "ぱぴぷぴぷぴぱ": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 637,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 12.3,
+      "notes": 1290,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 15.8,
+      "notes": "1243",
+      "charter": "Su1fuR"
+    },
+    "artist": "ころねぽち With 立秋",
+    "duration": "2:58",
+    "illustration": "上倉エク",
+    "version": "3.1.2"
+  },
+  "Triumph & Regret": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 423,
+      "charter": "Barbarianerman & Regret"
+    },
+    "hd": {
+      "level": 10.0,
+      "notes": 694,
+      "charter": "Barbarianerman & Regret"
+    },
+    "in": {
+      "level": 15.0,
+      "notes": 1014,
+      "charter": "TimiTini & HaraKuma"
+    },
+    "artist": "typeMARS",
+    "duration": "2:04",
+    "illustration": "何呵",
+    "version": "3.1.3"
+  },
+  "S.A.T.E.L.L.I.T.E.": {
+    "pack": "bassareus",
+    "ez": {
+      "level": 5.0,
+      "notes": 345,
+      "charter": "XMT小咩兔 wishing upon a satellite"
+    },
+    "hd": {
+      "level": 9.9,
+      "notes": 600,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 14.3,
+      "notes": 897,
+      "charter": "Likey"
+    },
+    "at": {
+      "level": 16.2,
+      "notes": 1098,
+      "charter": "NerSAN百九十八"
+    },
+    "artist": "かめりあ",
+    "duration": "3:15",
+    "illustration": "青鸟",
+    "version": "3.2.0"
+  },
+  "Dance with Silence": {
+    "pack": "bassareus",
+    "ez": {
+      "level": 7.0,
+      "notes": 170,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 10.9,
+      "notes": 552,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 1125,
+      "charter": "晨TangScend"
+    },
+    "artist": "かめりあ",
+    "duration": "2:59",
+    "illustration": "林语",
+    "version": "3.2.0"
+  },
+  "Labyrinth in Kowloon: Walled World": {
+    "pack": "bassareus",
+    "ez": {
+      "level": 6.0,
+      "notes": 491,
+      "charter": "VikingNexus"
+    },
+    "hd": {
+      "level": 11.1,
+      "notes": 968,
+      "charter": "VikingNexus"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 1150,
+      "charter": "百九十八 in Kowloon"
+    },
+    "artist": "かめりあ",
+    "duration": "3:00",
+    "illustration": "鲸弑",
+    "version": "3.2.0"
+  },
+  "Compute It With Some Devilish Alcoholic Steampunk Engines": {
+    "pack": "bassareus",
+    "ez": {
+      "level": 5.5,
+      "notes": 330,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 10.6,
+      "notes": 723,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 15.8,
+      "notes": 1213,
+      "charter": "Gausbon vs. XMT小咩兔"
+    },
+    "artist": "かめりあ",
+    "duration": "2:50",
+    "illustration": "山崎团",
+    "version": "3.2.0"
+  },
+  "+ERABY+E CONNEC+10N": {
+    "pack": "bassareus",
+    "ez": {
+      "level": 5.5,
+      "notes": 492,
+      "charter": "4B314C3042592B45"
+    },
+    "hd": {
+      "level": 11.6,
+      "notes": 904,
+      "charter": "4D45474142592B45"
+    },
+    "in": {
+      "level": 16.3,
+      "notes": 1530,
+      "charter": "4731474142592B45"
+    },
+    "at": {
+      "level": 17.3,
+      "notes": 1579,
+      "charter": "2B45524142592B45"
+    },
+    "artist": "かめりあ",
+    "duration": "2:50",
+    "illustration": "猫箱CatBox feat. 祈莲",
+    "version": "3.2.0"
+  },
+  "Diamond Eyes": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 340,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 6.5,
+      "notes": 429,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 13.4,
+      "notes": 774,
+      "charter": "Clutter"
+    },
+    "artist": "SYNTHETIC",
+    "duration": "2:25",
+    "illustration": "彗星 feat. 祈莲",
+    "version": "3.2.1"
+  },
+  "Bitterblossom": {
+    "pack": "single",
+    "ez": {
+      "level": 2.5,
+      "notes": 152,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 9.5,
+      "notes": 581,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.5,
+      "notes": 597,
+      "charter": "百九十八"
+    },
+    "artist": "imvi",
+    "duration": "2:24",
+    "illustration": "鲸弑",
+    "version": "3.2.1"
+  },
+  "Silence is Golden, Speech is Golden": {
+    "pack": "egts",
+    "ez": {
+      "level": 5.0,
+      "notes": 376,
+      "charter": "Clutter is coppery, Tumult is coppery"
+    },
+    "hd": {
+      "level": 9.3,
+      "notes": 795,
+      "charter": "XMT is silvery, 小咩兔 is silvery"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 1273,
+      "charter": "Hara is golden, Kuma is golden"
+    },
+    "artist": "NIWASHI",
+    "duration": "2:45",
+    "illustration": "Jerry & OsuMe65",
+    "version": "3.2.2"
+  },
+  "Fractured Angel": {
+    "pack": "egts",
+    "ez": {
+      "level": 4.0,
+      "notes": 626,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 10.9,
+      "notes": 796,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 16.3,
+      "notes": 1084,
+      "charter": "逆天使の悪魔【Likey】"
+    },
+    "artist": "DJ Raisei",
+    "duration": "3:01",
+    "illustration": "OsuMe65",
+    "version": "3.2.2"
+  },
+  "Journey with You": {
+    "pack": "rotaeno",
+    "ez": {
+      "level": 5.0,
+      "notes": 60,
+      "charter": "jouRikkoney with hold"
+    },
+    "hd": {
+      "level": 10.0,
+      "notes": 175,
+      "charter": "jouRikkoney to the end 【CORVERED】"
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 562,
+      "charter": "Su1fuR -All about YOU & ME-"
+    },
+    "artist": "Iris",
+    "duration": "2:20",
+    "illustration": "BTKCyber (青鸟 modified)",
+    "version": "3.3.0"
+  },
+  "Secret Illumination": {
+    "pack": "rotaeno",
+    "ez": {
+      "level": 5.0,
+      "notes": 281,
+      "charter": "Likey"
+    },
+    "hd": {
+      "level": 10.2,
+      "notes": 863,
+      "charter": "迟戈 vs. Likey"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 901,
+      "charter": "NerSAN"
+    },
+    "artist": "Yooh",
+    "duration": "2:35",
+    "illustration": "Juice Black (青鸟 modified)",
+    "version": "3.3.0"
+  },
+  "Inverted World": {
+    "pack": "rotaeno",
+    "ez": {
+      "level": 5.5,
+      "notes": 246,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 11.2,
+      "notes": 614,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 820,
+      "charter": "阿爽 .sʌ Gausbon"
+    },
+    "artist": "ARForest",
+    "duration": "2:10",
+    "illustration": "Mechari (青鸟 modified)",
+    "version": "3.3.0"
+  },
+  "TECHNOPOLIS 2085": {
+    "pack": "chunithm",
+    "ez": {
+      "level": 5.0,
+      "notes": 141,
+      "charter": "dancing\"Likey\"ine 2085"
+    },
+    "hd": {
+      "level": 10.2,
+      "notes": 443,
+      "charter": "迟戈 vs. Likey"
+    },
+    "in": {
+      "level": 14.1,
+      "notes": 820,
+      "charter": "Ctymax ????"
+    },
+    "at": {
+      "level": 15.9,
+      "notes": 824,
+      "charter": "XMT小咩兔 vs. 迟戈"
+    },
+    "artist": "PRASTIK DANCEFLOOR",
+    "duration": "2:20",
+    "illustration": "SEGA (V17AMax Modified)",
+    "version": "3.4.0"
+  },
+  "祈 -我ら神祖と共に歩む者なり-": {
+    "pack": "chunithm",
+    "ez": {
+      "level": 7.0,
+      "notes": 666,
+      "charter": "Su1fuRRikko \"SouRce of the metaveRse\""
+    },
+    "hd": {
+      "level": 13.2,
+      "notes": 1111,
+      "charter": "Su1fuRRikko × rN \"judgemeNt fRom the cataStRophy\""
+    },
+    "in": {
+      "level": 16.4,
+      "notes": 2222,
+      "charter": "XMT小咩兔"
+    },
+    "at": {
+      "level": 17.3,
+      "notes": 2222,
+      "charter": "フィグロス譜面チーム \"Rikko feat. NerSAN\" -Pray for \"PHI\"-"
+    },
+    "artist": "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
+    "duration": "2:59",
+    "illustration": "SEGA (V17AMax Modified)",
+    "version": "3.4.0"
+  },
+  "bye": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 186,
+      "charter": "Likey"
+    },
+    "hd": {
+      "level": 9.1,
+      "notes": 333,
+      "charter": "Likey"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 725,
+      "charter": "NerSAN ~ See you next time ~"
+    },
+    "artist": "DingerBox",
+    "duration": "2:40",
+    "illustration": "海产",
+    "version": "3.4.1"
+  },
+  "聖夜讃歌": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 402,
+      "charter": "阿爽夜讃歌"
+    },
+    "hd": {
+      "level": 10.1,
+      "notes": 593,
+      "charter": "阿爽夜讃歌"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 1339,
+      "charter": "NerSAN & Gausbon"
+    },
+    "artist": "A-39/沙包P",
+    "duration": "3:06",
+    "illustration": "绀屋",
+    "original": true,
+    "version": "3.4.1"
+  },
+  "ストレイソウル・アラウンド": {
+    "pack": "rotaeno",
+    "ez": {
+      "level": 6.0,
+      "notes": 324,
+      "charter": "JKy as \"Stray Cat\""
+    },
+    "hd": {
+      "level": 9.8,
+      "notes": 486,
+      "charter": "JKy Around"
+    },
+    "in": {
+      "level": 14.2,
+      "notes": 908,
+      "charter": "Clutter・アナザー・ラウンド"
+    },
+    "artist": "みーに",
+    "duration": "2:16",
+    "illustration": "伊恩 (青鸟 Modified)",
+    "version": "3.4.2"
+  },
+  "Manifold Hypothesis": {
+    "pack": "rotaeno",
+    "ez": {
+      "level": 4.0,
+      "notes": 187,
+      "charter": "Likey"
+    },
+    "hd": {
+      "level": 9.1,
+      "notes": 401,
+      "charter": "Likey"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 895,
+      "charter": "Gausbon feat. 迟戈&Barbarianerman"
+    },
+    "artist": "cybermiso feat. tigerlily",
+    "duration": "2:31",
+    "illustration": "阿清 (青鸟 Modified)",
+    "version": "3.4.2"
+  },
+  "K.Moe (VIP)": {
+    "pack": "rotaeno",
+    "ez": {
+      "level": 3.0,
+      "notes": 123,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 8.4,
+      "notes": 432,
+      "charter": "Rikko"
+    },
+    "in": {
+      "level": 15.9,
+      "notes": 1060,
+      "charter": "Ctymax (PBM)"
+    },
+    "artist": "ZxNX",
+    "duration": "2:08",
+    "illustration": "BTKCyber (青鸟 Modified)",
+    "version": "3.4.2"
+  },
+  "G.V.N. (Glitter, Vomitus and Neon)": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 635,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 9.5,
+      "notes": 900,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 15.8,
+      "notes": 1545,
+      "charter": "阿爽"
+    },
+    "artist": "Salty Salt & Unfold33",
+    "duration": "2:40",
+    "illustration": "祈莲",
+    "version": "3.4.3"
+  },
+  "Crush BETA": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 270,
+      "charter": "Clutter BETA"
+    },
+    "hd": {
+      "level": 10.5,
+      "notes": 666,
+      "charter": "Crush Barbarianerman"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 977,
+      "charter": "TimiTini今天吃神马"
+    },
+    "artist": "shadow_bling",
+    "duration": "2:17",
+    "illustration": "笔记RE",
+    "version": "3.4.3"
+  },
+  "Khalid": {
+    "pack": "side3",
+    "ez": {
+      "level": 4.0,
+      "notes": 190,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 8.2,
+      "notes": 356,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 13.1,
+      "notes": 631,
+      "charter": "NerSAN<Jazz for your soul .)"
+    },
+    "artist": "Dolphin",
+    "duration": "2:10",
+    "illustration": "HAZUQU",
+    "version": "3.5.0"
+  },
+  "PANIC PARADISE": {
+    "pack": "side3",
+    "ez": {
+      "level": 6.5,
+      "notes": 367,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 11.5,
+      "notes": 533,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 15.4,
+      "notes": 881,
+      "charter": "Su1fuR -FAISEURS DE PANIQUE-"
+    },
+    "artist": "DJ SHION.Y",
+    "duration": "2:08",
+    "illustration": " 百九十八",
+    "original": "True",
+    "version": "3.5.0"
+  },
+  "Freaky Undulations ~Noble Knights of Tune~": {
+    "pack": "side3",
+    "ez": {
+      "level": 7.0,
+      "notes": 292,
+      "charter": "NerSAN ~Freaky Cat of Charting~"
+    },
+    "hd": {
+      "level": 10.9,
+      "notes": 621,
+      "charter": "ARE YOU Jeitie!!!"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 1020,
+      "charter": "<= Noblesse Jeitie =>"
+    },
+    "artist": "Jehezukiel + KURORAK",
+    "duration": "2:18",
+    "illustration": "PEZZ feat. 祈莲 & CattoHato",
+    "version": "3.5.0"
+  },
+  "Quantum Hyperspace": {
+    "pack": "side3",
+    "ez": {
+      "level": 6.0,
+      "notes": 443,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 11.2,
+      "notes": 790,
+      "charter": "Barbarianerman"
+    },
+    "in": {
+      "level": 15.0,
+      "notes": 888,
+      "charter": "Rikko"
+    },
+    "artist": "D_AAN",
+    "duration": "1:58",
+    "illustration": "sa1t",
+    "version": "3.5.0"
+  },
+  "Re：End of a Dream": {
+    "pack": "side3",
+    "ez": {
+      "level": 7.5,
+      "notes": 421,
+      "charter": "Barbarianerman, Overture before the story"
+    },
+    "hd": {
+      "level": 13.0,
+      "notes": 856,
+      "charter": "Barbarianerman, Main theme within the somnium"
+    },
+    "in": {
+      "level": 15.9,
+      "notes": 1186,
+      "charter": "迟戈, Finale of the dream"
+    },
+    "at": {
+      "level": 16.9,
+      "notes": 1377,
+      "charter": "XMT小咩兔, Encore after the end"
+    },
+    "artist": "uma vs. モリモリあつし",
+    "duration": "2:21",
+    "illustration": "masiro vs. adaptor",
+    "version": "3.5.0"
+  },
+  "Broken Sky": {
+    "pack": "single",
+    "ez": {
+      "level": 3.0,
+      "notes": 169,
+      "charter": "Clutter"
+    },
+    "hd": {
+      "level": 8.6,
+      "notes": 352,
+      "charter": "Clutter"
+    },
+    "in": {
+      "level": 13.2,
+      "notes": 459,
+      "charter": "Su1fuR"
+    },
+    "artist": "Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow",
+    "duration": "2:35",
+    "illustration": "牛苔veeee~",
+    "original": true,
+    "version": "3.5.1"
+  },
+  "BRAIN HACKER": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 230,
+      "charter": "BLACK Ctymax"
+    },
+    "hd": {
+      "level": 9.3,
+      "notes": 372,
+      "charter": "COLORFUL Ctymax"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 780,
+      "charter": "COLORFUL BLACK Gausbon"
+    },
+    "artist": "SOMON",
+    "duration": "2:02",
+    "illustration": "SOMON",
+    "version": "3.5.2"
+  },
+  "Xenolith": {
+    "pack": "paradigm",
+    "ez": {
+      "level": 4.0,
+      "notes": 202,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 8.5,
+      "notes": 533,
+      "charter": "阿爽"
+    },
+    "in": {
+      "level": 14.3,
+      "notes": 789,
+      "charter": "Clutter guided by three Oaths"
+    },
+    "artist": "Tatsh",
+    "duration": "2:18",
+    "illustration": "2Al4wU4",
+    "version": "3.6.0"
+  },
+  "Artificial Existence": {
+    "pack": "paradigm",
+    "ez": {
+      "level": 3.5,
+      "notes": 200,
+      "charter": "Salt"
+    },
+    "hd": {
+      "level": 9.3,
+      "notes": 400,
+      "charter": "Salt"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 800,
+      "charter": "Salt & TangScend inspired by 存在証明 [X]"
+    },
+    "artist": "Jun Kuroda",
+    "duration": "2:13",
+    "illustration": "2Al4wU4",
+    "version": "3.6.0"
+  },
+  "Indelible Scar": {
+    "pack": "paradigm",
+    "ez": {
+      "level": 7.0,
+      "notes": 316,
+      "charter": "Clutter & Barbarianerman"
+    },
+    "hd": {
+      "level": 11.5,
+      "notes": 733,
+      "charter": "Salt & Barbarianerman"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 844,
+      "charter": "Likey affected by Ancestral Xhronicle"
+    },
+    "at": {
+      "level": 16.5,
+      "notes": 1207,
+      "charter": "XMT小咩兔"
+    },
+    "artist": "Noah",
+    "duration": "2:46",
+    "illustration": "兜",
+    "version": "3.6.0"
+  },
+  "Antithese": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 313,
+      "charter": "SeveredEntity (BlindForest vs rN) feat. Δ"
+    },
+    "hd": {
+      "level": 10.8,
+      "notes": 801,
+      "charter": "Δ (M3d1uM vs Salt)"
+    },
+    "in": {
+      "level": 15.4,
+      "notes": 1063,
+      "charter": "StupiGGy -The Origin-"
+    },
+    "at": {
+      "level": 16.4,
+      "notes": 1200,
+      "charter": "弧光"
+    },
+    "artist": "Blacklolita",
+    "duration": "2:21",
+    "illustration": "釜飯轟々丸 + jht (Design: 祈莲)",
+    "version": "3.6.1"
+  },
+  "PRAGMATISM -RESURRECTION-": {
+    "pack": "single",
+    "ez": {
+      "level": 7.5,
+      "notes": 1057,
+      "charter": "Likey [WARNING: DRAG OVERLOAD]"
+    },
+    "hd": {
+      "level": 12.9,
+      "notes": 661,
+      "charter": "Likey"
+    },
+    "in": {
+      "level": 16.0,
+      "notes": 999,
+      "charter": "-NerSAN & Su1fuR-"
+    },
+    "at": {
+      "level": 16.6,
+      "notes": 1156,
+      "charter": "THE LAST 百九十八"
+    },
+    "artist": "Laur",
+    "duration": "2:43",
+    "illustration": "シエラ (Design: 祈莲)",
+    "version": "3.6.1"
+  },
+  "Shine After": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 262,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 9.7,
+      "notes": 647,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 800,
+      "charter": "Salt & Uvernight"
+    },
+    "artist": "ADean & JocularACE",
+    "duration": "2:40",
+    "illustration": "海里狄七 feat. 存艺",
+    "original": true,
+    "version": "3.6.2"
+  },
+  "Bloom": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 183,
+      "charter": "Salt & Barbarianerman"
+    },
+    "hd": {
+      "level": 11.2,
+      "notes": 724,
+      "charter": "Salt & Barbarianerman"
+    },
+    "in": {
+      "level": 14.9,
+      "notes": 1053,
+      "charter": "NerSAN"
+    },
+    "artist": "麻团qwq & targ",
+    "duration": "2:40",
+    "illustration": "注射",
+    "version": "3.6.3"
+  },
+  "幽世桔梗": {
+    "pack": "shinobislash",
+    "ez": {
+      "level": 4.5,
+      "notes": 223,
+      "charter": "RipHall vs. Likey"
+    },
+    "hd": {
+      "level": 10.1,
+      "notes": 562,
+      "charter": "RipHall vs. Likey"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 981,
+      "charter": "Su1fuR、快斬！"
+    },
+    "artist": "Capchii feat. まるもこ",
+    "duration": "2:35",
+    "illustration": "瀬名",
+    "version": "3.7.0"
+  },
+  "千紫万紅": {
+    "pack": "shinobislash",
+    "ez": {
+      "level": 4.5,
+      "notes": 240,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 12.1,
+      "notes": 779,
+      "charter": "実戦 with Rikko"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 1200,
+      "charter": "Salt & Barbarianerman"
+    },
+    "artist": "r0y vs. WABI",
+    "duration": "2:35",
+    "illustration": "中本ひょうり",
+    "version": "3.7.0"
+  },
+  "明鏡烈火": {
+    "pack": "shinobislash",
+    "ez": {
+      "level": 6.0,
+      "notes": 376,
+      "charter": "COC feat. Su1fuR"
+    },
+    "hd": {
+      "level": 11.3,
+      "notes": 566,
+      "charter": "COC feat. Su1fuR"
+    },
+    "in": {
+      "level": 15.9,
+      "notes": 886,
+      "charter": "阿爽 Salt feat. LDA"
+    },
+    "artist": "M-UE vs. Reku Mochizuki",
+    "duration": "2:13",
+    "illustration": "中本ひょうり",
+    "version": "3.7.0"
+  },
+  "今天不是明天": {
+    "pack": "single",
+    "ez": {
+      "level": 2.5,
+      "notes": 294,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 8.3,
+      "notes": 549,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 13.4,
+      "notes": 913,
+      "charter": "Clutter，Barbarianerman"
+    },
+    "artist": "PIKASONIC feat. 兰音Reine",
+    "duration": "2:53",
+    "illustration": "KiTA & 一击即溃",
+    "version": "3.7.1"
+  },
+  "Cuvism³": {
+    "pack": "takumi",
+    "ez": {
+      "level": 3.0,
+      "notes": 222,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 12.2,
+      "notes": 761,
+      "charter": "Rikko³ [Normal]"
+    },
+    "in": {
+      "level": 13.9,
+      "notes": 830,
+      "charter": "Rikko"
+    },
+    "at": {
+      "level": 16.8,
+      "notes": 1088,
+      "charter": "JKy"
+    },
+    "artist": "Fl00t vs Halv",
+    "duration": "2:41",
+    "illustration": "sikkari",
+    "version": "3.8.0"
+  },
+  "iL-Artifact": {
+    "pack": "takumi",
+    "ez": {
+      "level": 5.5,
+      "notes": 482,
+      "charter": "IUIsauce"
+    },
+    "hd": {
+      "level": 10.5,
+      "notes": 925,
+      "charter": "IUIsauce"
+    },
+    "in": {
+      "level": 15.7,
+      "notes": 1279,
+      "charter": "XMT小咩兔"
+    },
+    "artist": "Link\"\u0000",
+    "duration": "2:43",
+    "illustration": "Fl00t",
+    "version": "3.8.0"
+  },
+  "a truth seeker -Communication with Utopia will be lost-": {
+    "pack": "takumi",
+    "ez": {
+      "level": 6.5,
+      "notes": 328,
+      "charter": "XMT小咩兔"
+    },
+    "hd": {
+      "level": 12.4,
+      "notes": 555,
+      "charter": "XMT小咩兔"
+    },
+    "in": {
+      "level": 15.8,
+      "notes": 986,
+      "charter": "Salt"
+    },
+    "artist": "kuro",
+    "duration": "2:02",
+    "illustration": "rokopon",
+    "version": "3.8.0"
+  },
+  "Bounded Quietude": {
+    "pack": "single",
+    "ez": {
+      "level": 7.0,
+      "notes": 1127,
+      "charter": "騎士Knight"
+    },
+    "hd": {
+      "level": 7.5,
+      "notes": 303,
+      "charter": "騎士Knight"
+    },
+    "in": {
+      "level": 16.2,
+      "notes": 1286,
+      "charter": "騎士Knight Against XMT小咩兔"
+    },
+    "artist": "takehirotei vs SiLiS",
+    "duration": "2:32",
+    "illustration": "Hiro vs Zeth",
+    "version": "3.8.0"
+  },
+  "君往何处 (Quo Vadis)": {
+    "pack": "rhythmmaster",
+    "ez": {
+      "level": 4.0,
+      "notes": 208,
+      "charter": "Where are Ctymax and 阿爽?"
+    },
+    "hd": {
+      "level": 8.6,
+      "notes": 390,
+      "charter": "Where are Ctymax and 阿爽?"
+    },
+    "in": {
+      "level": 14.2,
+      "notes": 935,
+      "charter": "Salt"
+    },
+    "artist": "M2U",
+    "duration": "2:27",
+    "illustration": "LRAY (青鸟 modified)",
+    "version": "3.8.1"
+  },
+  "暗夜苏醒 (REANIMATE)": {
+    "pack": "rhythmmaster",
+    "ez": {
+      "level": 5.0,
+      "notes": 236,
+      "charter": "Deep Dark Ctymax"
+    },
+    "hd": {
+      "level": 12.8,
+      "notes": 842,
+      "charter": "reanimate_6k_nm.Rikko"
+    },
+    "in": {
+      "level": 15.4,
+      "notes": 1262,
+      "charter": "StupiGGy -The Startline-"
+    },
+    "artist": "Warak",
+    "duration": "2:37",
+    "illustration": "MHK (青鸟 modified)",
+    "version": "3.8.1"
+  },
+  "Grimheart": {
+    "pack": "single",
+    "ez": {
+      "level": 3.0,
+      "notes": 132,
+      "charter": "Simon_Axis"
+    },
+    "hd": {
+      "level": 8.9,
+      "notes": 349,
+      "charter": "Simon_Axis"
+    },
+    "in": {
+      "level": 13.8,
+      "notes": 577,
+      "charter": "NerSAN"
+    },
+    "artist": "Puru",
+    "duration": "2:33",
+    "illustration": "临时工 & 倪尔",
+    "version": "3.9.0"
+  },
+  "月詠に鳴る": {
+    "pack": "chunithm",
+    "ez": {
+      "level": 6.0,
+      "notes": 293,
+      "charter": "IUIsauce"
+    },
+    "hd": {
+      "level": 11.4,
+      "notes": 544,
+      "charter": "Salt"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 858,
+      "charter": "Myna feat.XMT小咩兔"
+    },
+    "at": {
+      "level": 15.7,
+      "notes": 938,
+      "charter": "StupiGGy"
+    },
+    "artist": "Feryquitous feat. 藍月なくる",
+    "duration": "2:15",
+    "illustration": "SEGA (V17AMax Modified)",
+    "version": "3.9.0"
+  },
+  "NightTheater": {
+    "pack": "side4",
+    "ez": {
+      "level": 4.0,
+      "notes": 256,
+      "charter": "StR-1 watches Ctymax"
+    },
+    "hd": {
+      "level": 10.6,
+      "notes": 616,
+      "charter": "StR-1 watches Ctymax"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 811,
+      "charter": "LuminousGausbon"
+    },
+    "artist": "わかどり",
+    "duration": "2:10",
+    "illustration": "青鸟",
+    "version": "3.9.0"
+  },
+  "Spotlight": {
+    "pack": "side4",
+    "ez": {
+      "level": 4.5,
+      "notes": 288,
+      "charter": "Debut under spotlights!< Simon_Axis"
+    },
+    "hd": {
+      "level": 9.9,
+      "notes": 430,
+      "charter": "Simon_Axis >< Likey"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 777,
+      "charter": "Likey >IT'S SHOWTIME!"
+    },
+    "artist": "Ardolf",
+    "duration": "2:08",
+    "illustration": "NerSAN",
+    "original": true,
+    "version": "3.9.0"
+  },
+  "ATHAZA": {
+    "pack": "side4",
+    "ez": {
+      "level": 8.1,
+      "notes": 479,
+      "charter": "LDAJOY&PLEASENT ^V^ LDA"
+    },
+    "hd": {
+      "level": 12.9,
+      "notes": 662,
+      "charter": "ANGER&SORROW >^< LDA"
+    },
+    "in": {
+      "level": 15.7,
+      "notes": 1137,
+      "charter": "Affection&memories \\\\// Salt & Simon_Axis"
+    },
+    "at": {
+      "level": 16.6,
+      "notes": 1344,
+      "charter": "FORGET :: Clutter"
+    },
+    "artist": "LeaF",
+    "duration": "2:43",
+    "illustration": "御坂果子",
+    "version": "3.9.0"
+  },
+  "心の記憶": {
+    "pack": "side4",
+    "ez": {
+      "level": 3.5,
+      "notes": 311,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 9.1,
+      "notes": 629,
+      "charter": "Su1fuR"
+    },
+    "in": {
+      "level": 13.3,
+      "notes": 804,
+      "charter": "NerSAN"
+    },
+    "artist": "A-39/沙包P",
+    "duration": "2:43",
+    "illustration": "爱39的Konya",
+    "version": "3.9.0"
+  },
+  "Ramification": {
+    "pack": "side4",
+    "ez": {
+      "level": 5.0,
+      "notes": 222,
+      "charter": "inert COC"
+    },
+    "hd": {
+      "level": 10.4,
+      "notes": 515,
+      "charter": "totally ramified COC"
+    },
+    "in": {
+      "level": 14.8,
+      "notes": 732,
+      "charter": "Simon_Axis•騎士Knight•StR-1"
+    },
+    "artist": "rareguy & Reina",
+    "duration": "2:15",
+    "illustration": "cokeAnut",
+    "original": true,
+    "version": "3.9.0"
+  },
+  "Der Richter": {
+    "pack": "side4",
+    "ez": {
+      "level": 5.5,
+      "notes": 310,
+      "charter": "Min(Ctymax)"
+    },
+    "hd": {
+      "level": 11.4,
+      "notes": 615,
+      "charter": "Max(Ctymax)"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 1149,
+      "charter": "Absolute(Rikko)"
+    },
+    "artist": "Ωμεγα",
+    "duration": "2:25",
+    "illustration": "森灵",
+    "original": true,
+    "version": "3.9.0"
+  },
+  "Thrash force": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 219,
+      "charter": "阿爽"
+    },
+    "hd": {
+      "level": 10.7,
+      "notes": 673,
+      "charter": "阿爽"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 884,
+      "charter": "Uvernight & Su1fuR"
+    },
+    "artist": "KAH vs. E0ri4",
+    "duration": "2:28",
+    "illustration": "自動車原付 vs. GAMEBAKA",
+    "version": "3.9.1"
+  },
+  "Originally": {
+    "pack": "single",
+    "ez": {
+      "level": 1.0,
+      "notes": 136,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 9.3,
+      "notes": 453,
+      "charter": "StR-1"
+    },
+    "in": {
+      "level": 14.6,
+      "notes": 951,
+      "charter": "JKy"
+    },
+    "artist": "SNKS & Mizku",
+    "duration": "2:23",
+    "illustration": "Keiby.comics",
+    "version": "3.9.1"
+  },
+  "黄金之城 (GOLD TOWN)": {
+    "pack": "rhythmmaster",
+    "ez": {
+      "level": 2.0,
+      "notes": 90,
+      "charter": "Rikko"
+    },
+    "hd": {
+      "level": 10.2,
+      "notes": 408,
+      "charter": "Passport:Constructor"
+    },
+    "in": {
+      "level": 14.7,
+      "notes": 857,
+      "charter": "StupiGGy"
+    },
+    "artist": "MEMME",
+    "duration": "2:03",
+    "illustration": "RM Design Team (青鸟 modified)",
+    "version": "3.10.0"
+  },
+  "双重间谍 (Double Agent)": {
+    "pack": "rhythmmaster",
+    "ez": {
+      "level": 4.5,
+      "notes": 346,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 11.8,
+      "notes": 738,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 15.7,
+      "notes": 1353,
+      "charter": "Spy-Simon_Axis | Spy-騎士Knight"
+    },
+    "artist": "Wav.AV",
+    "duration": "2:26",
+    "illustration": "RM Design Team (青鸟 modified)",
+    "version": "3.10.0"
+  },
+  "幻影鬼魅 (PLEASE)": {
+    "pack": "rhythmmaster",
+    "ez": {
+      "level": 5.5,
+      "notes": 283,
+      "charter": "COC"
+    },
+    "hd": {
+      "level": 9.6,
+      "notes": 639,
+      "charter": "COC"
+    },
+    "in": {
+      "level": 15.1,
+      "notes": 1080,
+      "charter": "M3d1uM"
+    },
+    "at": {
+      "level": 17.0,
+      "notes": 1145,
+      "charter": "imd visual charter \"Rikko\" since 2014"
+    },
+    "artist": "R300K",
+    "duration": "2:04",
+    "illustration": "RM Design Team (青鸟 modified)",
+    "version": "3.10.0"
+  },
+  "Schadenfreude": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 351,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 10.6,
+      "notes": 600,
+      "charter": "StR-1"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 1257,
+      "charter": "StR-1"
+    },
+    "artist": "ZxNX",
+    "duration": "2:32",
+    "illustration": "验光蒸鱼",
+    "version": "3.10.1"
+  },
+  "Le temps perdu": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 262,
+      "charter": "Salt"
+    },
+    "hd": {
+      "level": 9.0,
+      "notes": 588,
+      "charter": "Salt"
+    },
+    "in": {
+      "level": 12.5,
+      "notes": 698,
+      "charter": "Likey -For an old friend-"
+    },
+    "artist": "Daison",
+    "duration": "2:26",
+    "illustration": "子狼",
+    "version": "3.10.1"
+  },
+  "Fixations Toward the Stars": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 193,
+      "charter": "Salt"
+    },
+    "hd": {
+      "level": 10.8,
+      "notes": 491,
+      "charter": "OPENING/Level Rikko"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 835,
+      "charter": "Salt"
+    },
+    "artist": "Foodbot",
+    "duration": "2:50",
+    "illustration": "AriaL [edited by Stelli]",
+    "version": "3.10.2"
+  },
+  "valor/starcross": {
+    "pack": "single",
+    "ez": {
+      "level": 6.5,
+      "notes": 479,
+      "charter": "vacant/StupiGGy"
+    },
+    "hd": {
+      "level": 12.6,
+      "notes": 835,
+      "charter": "vacant/StupiGGy"
+    },
+    "in": {
+      "level": 15.8,
+      "notes": 1083,
+      "charter": "vesper/JKy"
+    },
+    "artist": "Lundy vs. Wyvren",
+    "duration": "2:39",
+    "illustration": "AriaL & 57_dayo [edited by Stelli]",
+    "version": "3.10.2"
+  },
+  "Comet": {
+    "pack": "single",
+    "ez": {
+      "level": 3.0,
+      "notes": 138,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 10.5,
+      "notes": 752,
+      "charter": "IUIsauce"
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 874,
+      "charter": "Likey & Barbarianerman"
+    },
+    "artist": "CNHKSS feat. 符白牙",
+    "duration": "2:32",
+    "illustration": "小黄鸣叽叽叽叽叽叽修复中",
+    "version": "3.10.2"
+  },
+  "Kirakira Noel Story!!": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 268,
+      "charter": "Ctymax Story!!"
+    },
+    "hd": {
+      "level": 10.2,
+      "notes": 626,
+      "charter": "Ctymax Story!!"
+    },
+    "in": {
+      "level": 14.2,
+      "notes": 935,
+      "charter": "NerSAN Xmas 2024"
+    },
+    "artist": "Reku Mochizuki",
+    "duration": "2:18",
+    "illustration": "ナナシ",
+    "version": "3.10.3"
+  },
+  "Devotion": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 317,
+      "charter": "StupiGGy"
+    },
+    "hd": {
+      "level": 9.6,
+      "notes": 657,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 13.9,
+      "notes": 793,
+      "charter": "Salt"
+    },
+    "artist": "Connexio",
+    "duration": "2:40",
+    "illustration": "Shimoruchiko",
+    "version": "3.10.3"
+  },
+  "白と黒のバケモノ": {
+    "pack": "single",
+    "ez": {
+      "level": 4.0,
+      "notes": 231,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 11.4,
+      "notes": 914,
+      "charter": "StR-1 Rikko"
+    },
+    "in": {
+      "level": 15.9,
+      "notes": 1197,
+      "charter": "Simon_Axis"
+    },
+    "artist": "テヅカ",
+    "duration": "2:23",
+    "illustration": "久世",
+    "version": "3.10.3"
+  },
+  "Shelter": {
+    "pack": "single",
+    "ez": {
+      "level": 3.5,
+      "notes": 265,
+      "charter": "Clutter with StR-1"
+    },
+    "hd": {
+      "level": 8.8,
+      "notes": 388,
+      "charter": "Clutter with StR-1"
+    },
+    "in": {
+      "level": 13.1,
+      "notes": 696,
+      "charter": "人外侵略地球计划"
+    },
+    "artist": "MeatyRabbit & NceS",
+    "duration": "2:19",
+    "illustration": "诡异童话",
+    "version": "3.10.4"
+  },
+  "蝎虎天体 -Lacertid-": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 273,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 10.7,
+      "notes": 596,
+      "charter": "StR-1"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 1238,
+      "charter": "Ctymax vs. IUIsauce -村头烤鱼蘸凹酱-"
+    },
+    "artist": "Cream & Daily",
+    "duration": "2:26",
+    "illustration": "白 & 小鹏xpeng",
+    "version": "3.10.4"
+  },
+  "インマイマインド": {
+    "pack": "single",
+    "ez": {
+      "level": 1.5,
+      "notes": 89,
+      "charter": "Salt"
+    },
+    "hd": {
+      "level": 9.2,
+      "notes": 479,
+      "charter": "Salt"
+    },
+    "in": {
+      "level": 12.2,
+      "notes": 562,
+      "charter": "NerSAN (I make charts slowly)"
+    },
+    "artist": "レシオP",
+    "duration": "2:52",
+    "illustration": "すずか爆弾",
+    "version": "3.11.0"
+  },
+  "ニライカナイ (NiraicA_nai Mix)": {
+    "pack": "single",
+    "ez": {
+      "level": 2.5,
+      "notes": 207,
+      "charter": "Barbarianerman"
+    },
+    "hd": {
+      "level": 8.3,
+      "notes": 354,
+      "charter": "Ctymax respect for STAR TRACK in 2008"
+    },
+    "in": {
+      "level": 13.5,
+      "notes": 650,
+      "charter": "Ctymax respect for STAR TRACK in 2008"
+    },
+    "artist": "roop from STR",
+    "duration": "2:38",
+    "illustration": "3z",
+    "version": "3.11.0"
+  },
+  "宇宙残骸少女 (Cosmic Dusty Girl)": {
+    "pack": "single",
+    "ez": {
+      "level": 6,
+      "notes": 70,
+      "charter": "不喜欢键的COC "
+    },
+    "hd": {
+      "level": 10.2,
+      "notes": 322,
+      "charter": "不喜欢线的COC "
+    },
+    "in": {
+      "level": 13.7,
+      "notes": 691,
+      "charter": "~漂泊者 ~IUIsauce"
+    },
+    "artist": "辻原一郎",
+    "duration": "2:15",
+    "illustration": "TOTOTO",
+    "version": "3.11.1"
+  },
+  "Swing Skip Drop": {
+    "pack": "single",
+    "ez": {
+      "level": 4.5,
+      "notes": 219,
+      "charter": "Helabot"
+    },
+    "hd": {
+      "level": 9.1,
+      "notes": 327,
+      "charter": "Helabot"
+    },
+    "in": {
+      "level": 15.5,
+      "notes": 977,
+      "charter": "Swing Salt ♪ "
+    },
+    "artist": "ミハイル ",
+    "duration": "2:03",
+    "illustration": "ディン",
+    "version": "3.11.1"
+  },
+  "Resolver": {
+    "pack": "egts",
+    "ez": {
+      "level": 3.0,
+      "notes": 128,
+      "charter": "Salt"
+    },
+    "hd": {
+      "level": 8.8,
+      "notes": 339,
+      "charter": "Salt"
+    },
+    "in": {
+      "level": 14.5,
+      "notes": 993,
+      "charter": "Clutter vs. Salt"
+    },
+    "artist": "Gomadare",
+    "duration": "2:41",
+    "illustration": "Transendium",
+    "version": "3.12.0"
+  },
+  "Luminous Entities Lost Heart": {
+    "pack": "egts",
+    "ez": {
+      "level": 5.0,
+      "notes": 275,
+      "charter": "StR-1"
+    },
+    "hd": {
+      "level": 10.9,
+      "notes": 461,
+      "charter": "StR-1"
+    },
+    "in": {
+      "level": 15.2,
+      "notes": 929,
+      "charter": "StR-1"
+    },
+    "artist": "NormalM feat. Usagi Denki",
+    "duration": "2:48",
+    "illustration": "Transendium",
+    "version": "3.12.0"
+  },
+  "KIZUNA Resolution": {
+    "pack": "egts",
+    "ez": {
+      "level": 8.0,
+      "notes": 262,
+      "charter": "Likey underground"
+    },
+    "hd": {
+      "level": 13.4,
+      "notes": 722,
+      "charter": "HD Rikko.esolution"
+    },
+    "in": {
+      "level": 16.4,
+      "notes": 1039,
+      "charter": "Su1fuR"
+    },
+    "artist": "TAG",
+    "duration": "2:15",
+    "illustration": "Transendium",
+    "version": "3.12.0"
+  },
+  "AbsoluTe disoRdeR": {
+    "pack": "egts",
+    "ez": {
+      "level": 6.5,
+      "notes": 766,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 12.3,
+      "notes": 1046,
+      "charter": "騎士Knight"
+    },
+    "in": {
+      "level": 16.2,
+      "notes": 1600,
+      "charter": "Salt"
+    },
+    "at": {
+      "level": 17.2,
+      "notes": 2025,
+      "charter": "JKy"
+    },
+    "artist": "Acute Disarray",
+    "duration": "3:10",
+    "illustration": "Kyuare & Wsx",
+    "version": "3.12.0"
+  },
+  "Aphrodite's Child (short ver.)": {
+    "pack": "immaculeesekai",
+    "ez": {
+      "level": 3.5,
+      "notes": 251,
+      "charter": "StupiGGy"
+    },
+    "hd": {
+      "level": 8.1,
+      "notes": 507,
+      "charter": "StupiGGy"
+    },
+    "in": {
+      "level": 13.3,
+      "notes": 674,
+      "charter": "JKy"
+    },
+    "artist": "RUQOA",
+    "duration": "2:47",
+    "illustration": "Sin:cK for Immaculée Sekai",
+    "version": "3.13.0"
+  },
+  "DevIAtiOn (short ver.)": {
+    "pack": "immaculeesekai",
+    "ez": {
+      "level": 5,
+      "notes": 222,
+      "charter": "COC"
+    },
+    "hd": {
+      "level": 11.1,
+      "notes": 827,
+      "charter": "COC"
+    },
+    "in": {
+      "level": 15.6,
+      "notes": 1117,
+      "charter": "NerSAN"
+    },
+    "artist": "polysha",
+    "duration": "2:51",
+    "illustration": "cala for Immaculée Sekai",
+    "version": "3.13.0"
+  },
+  "NO x": {
+    "pack": "immaculeesekai",
+    "ez": {
+      "level": 4.5,
+      "charter": "Su1fuR",
+      "notes": 198
+    },
+    "hd": {
+      "level": 10.3,
+      "charter": "IUIsauce",
+      "notes": 700
+    },
+    "in": {
+      "level": 16.1,
+      "notes": 1150,
+      "charter": "StR-1"
+    },
+    "artist": "Juggernaut.",
+    "duration": "2:33",
+    "illustration": "cala for Immaculée Sekai",
+    "version": "3.13.0"
+  },
+  "Alice in a xxxxxxxx": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 239,
+      "charter": "XMT小咩兔"
+    },
+    "hd": {
+      "level": 9.7,
+      "notes": 433,
+      "charter": "XMT小咩兔"
+    },
+    "in": {
+      "level": 15.7,
+      "notes": 922,
+      "charter": "XMT小咩兔 in a XXXXXXXX "
+    },
+    "artist": "Nagiha",
+    "duration": "2:36",
+    "illustration": "神居冰绘 feat. 祈莲",
+    "version": "3.13.1"
+  },
+  "Radiance": {
+    "pack": "ongeki",
+    "ez": {
+      "level": 3.5,
+      "notes": 218,
+      "charter": "Su1fuR"
+    },
+    "hd": {
+      "level": 11.5,
+      "notes": 639,
+      "charter": "Rikko EXPERT Lv.40"
+    },
+    "in": {
+      "level": 14,
+      "notes": 667,
+      "charter": "XMT小咩兔"
+    },
+    "at": {
+      "level": 15.5,
+      "notes": 926,
+      "charter": "Rikko"
+    },
+    "artist": "Nhato",
+    "duration": "2:26",
+    "illustration": "SEGA (V17AMax modified)",
+    "version": "3.14.0"
+  },
+  "Diamond Dust": {
+    "pack": "ongeki",
+    "ez": {
+      "level": 5,
+      "notes": 266,
+      "charter": "Salt"
+    },
+    "hd": {
+      "level": 10.8,
+      "notes": 646,
+      "charter": "Salt"
+    },
+    "in": {
+      "level": 15.3,
+      "notes": 986,
+      "charter": "Gausbon"
+    },
+    "at": {
+      "level": 16.7,
+      "notes": 1518,
+      "charter": "StupiGGy"
+    },
+    "artist": "Masahiro \"Godspeed\" Aoki",
+    "duration": "2:35",
+    "illustration": "SEGA (V17AMax modified)",
+    "version": "3.14.0"
+  },
+  "Stardust:RAY": {
+    "pack": "ongeki",
+    "ez": {
+      "level": 6,
+      "notes": 399,
+      "charter": "Simon_Axis vs. Su1fuR"
+    },
+    "hd": {
+      "level": 12.5,
+      "notes": 844,
+      "charter": "Su1fuR vs. Simon_Axis"
+    },
+    "in": {
+      "level": 16.5,
+      "notes": 1392,
+      "charter": "Simon_Axis vs. Su1fuR -Lv.70 LEAF-"
+    },
+    "at": {
+      "level": 17.2,
+      "notes": 1570,
+      "charter": "Likey vs StupiGGy -Autumn Memory-"
+    },
+    "artist": "kanone vs. BlackY",
+    "duration": "2:46",
+    "illustration": "SEGA (V17AMax modified)",
+    "version": "3.14.0"
+  },
+  "Frozen Heart": {
+    "pack": "single",
+    "ez": {
+      "level": 5.0,
+      "notes": 353,
+      "charter": "StR"
+    },
+    "hd": {
+      "level": 10.6,
+      "notes": 708,
+      "charter": "StR"
+    },
+    "in": {
+      "level": 14.4,
+      "notes": 939,
+      "charter": "Likey & Gausbon"
+    },
+    "artist": "A-39/沙包P",
+    "illustration": "山山奇",
+    "duration": "3:12",
+    "version": "4.14.1"
+  }
+}
