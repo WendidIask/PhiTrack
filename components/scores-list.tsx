@@ -1,10 +1,21 @@
 "use client"
 
-import { useState } from "react"
+import {
+  useState,
+  useEffect,
+  useRef,
+  useMemo,
+} from "react"
 import { Trash2, Search, Filter } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select"
 import { Badge } from "@/components/ui/badge"
 import {
   AlertDialog,
@@ -45,9 +56,16 @@ interface ScoresListProps {
   showHighScoreOnly?: boolean
 }
 
+const CHUNK_SIZE = 20
+
 export function ScoresList({ scores, onDelete, showHighScoreOnly = false }: ScoresListProps) {
   const [searchTerm, setSearchTerm] = useState("")
   const [difficultyFilter, setDifficultyFilter] = useState<string>("all")
+  const [selectedIds, setSelectedIds] = useState<Set<string>>(new Set())
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState(false)
+  const [visibleCount, setVisibleCount] = useState(CHUNK_SIZE)
+
+  const loaderRef = useRef<HTMLDivElement | null>(null)
 
   const getDifficultyColor = (difficulty: string) => {
     switch (difficulty) {
@@ -64,19 +82,88 @@ export function ScoresList({ scores, onDelete, showHighScoreOnly = false }: Scor
     }
   }
 
-  const formatScore = (score: number) => {
-    return score.toLocaleString()
+  const formatScore = (score: number) => score.toLocaleString()
+  const formatAccuracy = (accuracy: number) => `${accuracy.toFixed(2)}%`
+
+  // Memoized filtered & sorted scores
+  const filteredScores = useMemo(() => {
+    const filtered = scores.filter((score) => {
+      const matchesSearch = score.songName.toLowerCase().includes(searchTerm.toLowerCase())
+      const matchesDifficulty = difficultyFilter === "all" || score.difficulty === difficultyFilter
+      return matchesSearch && matchesDifficulty
+    })
+
+    // Sort by highest RKS, then highest accuracy
+    return filtered.slice().sort((a, b) => {
+      const rksA = calculateRKS(a.accuracy, a.difficultyRating || getDifficultyRating(a.difficulty))
+      const rksB = calculateRKS(b.accuracy, b.difficultyRating || getDifficultyRating(b.difficulty))
+      if (rksB !== rksA) return rksB - rksA
+      return b.accuracy - a.accuracy
+    })
+  }, [scores, searchTerm, difficultyFilter])
+
+  // Reset visibleCount on filter/search change
+  useEffect(() => {
+    setVisibleCount(CHUNK_SIZE)
+  }, [searchTerm, difficultyFilter, scores])
+
+  // Update selectedIds if filteredScores changes (remove unshown)
+  useEffect(() => {
+    setSelectedIds((prev) => {
+      const filteredIds = new Set(filteredScores.map((s) => s.id))
+      const newSelected = new Set<string>()
+      prev.forEach((id) => {
+        if (filteredIds.has(id)) newSelected.add(id)
+      })
+
+      // Only update state if newSelected is different
+      const areSetsEqual =
+        prev.size === newSelected.size && [...prev].every((id) => newSelected.has(id))
+
+      if (areSetsEqual) return prev
+      return newSelected
+    })
+  }, [filteredScores])
+
+  // Infinite scroll with IntersectionObserver on sentinel
+  useEffect(() => {
+    if (!loaderRef.current) return
+
+    const observer = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        setVisibleCount((c) => Math.min(c + CHUNK_SIZE, filteredScores.length))
+      }
+    })
+
+    observer.observe(loaderRef.current)
+    return () => observer.disconnect()
+  }, [filteredScores.length])
+
+  // Select all toggle
+  const toggleSelectAll = () => {
+    if (selectedIds.size === filteredScores.length && filteredScores.length > 0) {
+      setSelectedIds(new Set())
+    } else {
+      setSelectedIds(new Set(filteredScores.map((s) => s.id)))
+    }
   }
 
-  const formatAccuracy = (accuracy: number) => {
-    return `${accuracy.toFixed(2)}%`
+  // Select one toggle
+  const toggleSelectOne = (id: string) => {
+    setSelectedIds((prev) => {
+      const newSet = new Set(prev)
+      if (newSet.has(id)) newSet.delete(id)
+      else newSet.add(id)
+      return newSet
+    })
   }
 
-  const filteredScores = scores.filter((score) => {
-    const matchesSearch = score.songName.toLowerCase().includes(searchTerm.toLowerCase())
-    const matchesDifficulty = difficultyFilter === "all" || score.difficulty === difficultyFilter
-    return matchesSearch && matchesDifficulty
-  })
+  // Delete selected
+  const handleDeleteSelected = () => {
+    selectedIds.forEach((id) => onDelete(id))
+    setSelectedIds(new Set())
+    setShowDeleteConfirm(false)
+  }
 
   if (scores.length === 0) {
     return (
@@ -89,7 +176,7 @@ export function ScoresList({ scores, onDelete, showHighScoreOnly = false }: Scor
 
   return (
     <div className="space-y-4">
-      {/* Filters */}
+      {/* Filters and bulk delete - all on one row */}
       <div className="flex gap-4 items-center">
         <div className="relative flex-1">
           <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
@@ -123,19 +210,50 @@ export function ScoresList({ scores, onDelete, showHighScoreOnly = false }: Scor
             </SelectItem>
           </SelectContent>
         </Select>
+
+        {!showHighScoreOnly && (
+          <>
+            <label className="inline-flex items-center cursor-pointer select-none text-gray-200">
+              <input
+                type="checkbox"
+                checked={selectedIds.size === filteredScores.length && filteredScores.length > 0}
+                onChange={toggleSelectAll}
+                className="mr-2 rounded border-gray-600 bg-gray-700 text-purple-600 focus:ring-purple-500"
+              />
+              Select All
+            </label>
+            <Button
+              variant="destructive"
+              disabled={selectedIds.size === 0}
+              onClick={() => setShowDeleteConfirm(true)}
+            >
+              Delete Selected ({selectedIds.size})
+            </Button>
+          </>
+        )}
       </div>
 
       {/* Scores List */}
       <div className="space-y-2">
-        {filteredScores.map((score, index) => (
+        {filteredScores.slice(0, visibleCount).map((score, index) => (
           <div
             key={score.id}
             className="flex items-center justify-between p-4 border border-gray-700 rounded-lg hover:bg-gray-800/50 transition-colors"
           >
             <div className="flex items-center gap-4 flex-1">
+              <input
+                type="checkbox"
+                checked={selectedIds.has(score.id)}
+                onChange={() => toggleSelectOne(score.id)}
+                className="rounded border-gray-600 bg-gray-700 text-purple-600 focus:ring-purple-500"
+              />
               <div className="flex items-center gap-2">
-                <span className="text-sm text-muted-foreground font-mono w-8">#{index + 1}</span>
-                <Badge className={getDifficultyColor(score.difficulty)}>{score.difficulty}</Badge>
+                <span className="text-sm text-muted-foreground font-mono w-8">
+                  #{index + 1}
+                </span>
+                <Badge className={getDifficultyColor(score.difficulty)}>
+                  {score.difficulty}
+                </Badge>
               </div>
 
               <div className="flex-1">
@@ -194,12 +312,39 @@ export function ScoresList({ scores, onDelete, showHighScoreOnly = false }: Scor
         ))}
       </div>
 
+      {/* sentinel for IntersectionObserver */}
+      {visibleCount < filteredScores.length && (
+        <div ref={loaderRef} className="h-1" />
+      )}
+
+      {/* No matching scores */}
       {filteredScores.length === 0 && scores.length > 0 && (
         <div className="text-center py-8 text-gray-400">
           <p>No scores match your current filters.</p>
           <p className="text-sm">Try adjusting your search or filter criteria.</p>
         </div>
       )}
+
+      {/* Bulk delete confirmation */}
+      <AlertDialog open={showDeleteConfirm} onOpenChange={setShowDeleteConfirm}>
+        <AlertDialogContent>
+          <AlertDialogHeader>
+            <AlertDialogTitle>Delete Selected Scores</AlertDialogTitle>
+            <AlertDialogDescription>
+              Are you sure you want to delete the {selectedIds.size} selected scores? This action cannot be undone.
+            </AlertDialogDescription>
+          </AlertDialogHeader>
+          <AlertDialogFooter>
+            <AlertDialogCancel onClick={() => setShowDeleteConfirm(false)}>Cancel</AlertDialogCancel>
+            <AlertDialogAction
+              onClick={handleDeleteSelected}
+              className="bg-destructive text-destructive-foreground hover:bg-destructive/90"
+            >
+              Delete
+            </AlertDialogAction>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
     </div>
   )
 }
