@@ -220,18 +220,20 @@ export default function PhigrosTracker() {
   }
 
   const getHighScores = () => {
-    const songScores = new Map<string, Score>()
+    const best = new Map<string, Score>()            // key = song‑difficulty
 
-    scores.forEach((score) => {
-      const key = `${score.songName}-${score.difficulty}`
-      const existing = songScores.get(key)
+    scores.forEach((s) => {
+      const key = `${s.songName}-${s.difficulty}`
+      const existing = best.get(key)
 
-      if (!existing || score.score > existing.score) {
-        songScores.set(key, score)
+      // keep the play with the highest accuracy
+      if (!existing || s.accuracy > existing.accuracy) {
+        best.set(key, s)
       }
     })
 
-    return Array.from(songScores.values()).sort((a, b) => b.score - a.score)
+    // sort by accuracy (desc) just for nicer ordering in the list
+    return [...best.values()].sort((a, b) => b.accuracy - a.accuracy)
   }
 
   if (loading) {

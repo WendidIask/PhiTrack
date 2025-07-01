@@ -146,13 +146,11 @@ export function SongsPage({ userScores }: SongsPageProps) {
       case "hd":
         return "bg-blue-800 text-blue-200 hover:bg-blue-700"
       case "in":
-        return "bg-purple-800 text-purple-200 hover:bg-purple-700"
-      case "at":
         return "bg-red-800 text-red-200 hover:bg-red-700"
-      case "legacy":
-        return "bg-orange-800 text-orange-200 hover:bg-orange-700"
-      default:
+      case "at":
         return "bg-gray-700 text-gray-200 hover:bg-gray-600"
+      default:
+        return "bg-white-700 text-white-200 hover:bg-white-600"
     }
   }
 

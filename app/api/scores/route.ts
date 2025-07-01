@@ -14,7 +14,7 @@ export async function GET(request: NextRequest) {
       .from("scores")
       .select("*")
       .eq("user_id", userId)
-      .order("created_at", { ascending: false })
+      .order("date", { ascending: false })
 
     if (error) {
       console.error("Database error:", error)
@@ -31,7 +31,7 @@ export async function GET(request: NextRequest) {
       accuracy: score.accuracy,
       goods: score.goods,
       badsMisses: score.bads_misses,
-      date: score.created_at,
+      date: score.date,
     }))
 
     return NextResponse.json(transformedData)
@@ -59,7 +59,7 @@ export async function POST(request: NextRequest) {
       accuracy: accuracy,
       goods: goods || null,
       bads_misses: badsMisses || null,
-      created_at: new Date().toISOString().split("T")[0],
+      date: new Date().toISOString().split("T")[0],
     }
 
     const { data, error } = await supabase.from("scores").insert([scoreData]).select().single()
@@ -79,7 +79,7 @@ export async function POST(request: NextRequest) {
       accuracy: data.accuracy,
       goods: data.goods,
       badsMisses: data.bads_misses,
-      date: data.created_at,
+      date: data.date,
     }
 
     return NextResponse.json(transformedData)
