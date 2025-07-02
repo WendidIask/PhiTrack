@@ -26,39 +26,36 @@ const calculateOverallRKS = (scores: Score[]): number => {
   for (const score of scores) {
     const key = `${score.songName}-${score.difficulty}`
     const existing = bestScores.get(key)
-    if (!existing || score.accuracy > existing.accuracy) bestScores.set(key, score)
+    if (!existing || score.accuracy >= existing.accuracy) bestScores.set(key, score)
   }
 
   const rksScores = [...bestScores.values()]
     .map(s => ({ ...s, rks: calculateRKS(s.accuracy, s.difficultyRating) }))
     .sort((a, b) => b.rks - a.rks)
-
+  
   const perfectScores = rksScores.filter(s => s.accuracy === 100).slice(0, 3)
   const top27 = rksScores.slice(0, 27)
+  console.log(top27)
 
   const finalKeys = new Set<string>()
   const scoresToAverage: number[] = []
 
   for (const s of perfectScores) {
     const key = `${s.songName}-${s.difficulty}`
-    if (!finalKeys.has(key)) {
-      finalKeys.add(key)
-      scoresToAverage.push(s.rks)
-    }
+    finalKeys.add(key)
+    scoresToAverage.push(s.rks)
   }
 
   for (const s of top27) {
     const key = `${s.songName}-${s.difficulty}`
-    if (!finalKeys.has(key) && scoresToAverage.length < 30) {
-      finalKeys.add(key)
-      scoresToAverage.push(s.rks)
-    }
+    finalKeys.add(key)
+    scoresToAverage.push(s.rks)
   }
 
   while (scoresToAverage.length < 30) {
     scoresToAverage.push(0)
   }
-
+  console.log(scoresToAverage)
   const totalRKS = scoresToAverage.reduce((sum, rks) => sum + rks, 0)
   return totalRKS / 30
 }
