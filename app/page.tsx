@@ -285,24 +285,22 @@ export default function PhigrosTracker() {
           <div className="flex flex-wrap items-center justify-between gap-2">
             {/* Mobile Tab Layout */}
             <div className="sm:hidden w-full">
-              <div className="grid grid-cols-2 gap-2 mb-2">
-                <TabsList className="grid w-full grid-cols-2 bg-gray-800 border-gray-700">
-                  <TabsTrigger value="high-scores" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
-                    <Trophy className="h-4 w-4" />
+              <div className="mb-2">
+                <TabsList className="grid w-full grid-cols-4 bg-gray-800 border-gray-700">
+                  <TabsTrigger value="high-scores" className="flex items-center gap-1 data-[state=active]:bg-gray-700 px-2 py-2">
+                    <Trophy className="h-4 w-4 flex-shrink-0" />
                     <span className="text-xs">Best</span>
                   </TabsTrigger>
-                  <TabsTrigger value="all-scores" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
-                    <Music className="h-4 w-4" />
+                  <TabsTrigger value="all-scores" className="flex items-center gap-1 data-[state=active]:bg-gray-700 px-2 py-2">
+                    <Music className="h-4 w-4 flex-shrink-0" />
                     <span className="text-xs">All</span>
                   </TabsTrigger>
-                </TabsList>
-                <TabsList className="grid w-full grid-cols-2 bg-gray-800 border-gray-700">
-                  <TabsTrigger value="songs" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
-                    <Music2 className="h-4 w-4" />
+                  <TabsTrigger value="songs" className="flex items-center gap-1 data-[state=active]:bg-gray-700 px-2 py-2">
+                    <Music2 className="h-4 w-4 flex-shrink-0" />
                     <span className="text-xs">Songs</span>
                   </TabsTrigger>
-                  <TabsTrigger value="progress" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
-                    <TrendingUp className="h-4 w-4" />
+                  <TabsTrigger value="progress" className="flex items-center gap-1 data-[state=active]:bg-gray-700 px-2 py-2">
+                    <TrendingUp className="h-4 w-4 flex-shrink-0" />
                     <span className="text-xs">Progress</span>
                   </TabsTrigger>
                 </TabsList>

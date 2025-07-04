@@ -15,6 +15,8 @@ import {
   Music2,
   Palette,
   Calendar,
+  BarChart3,
+  Target,
 } from "lucide-react"
 import {
   Card,
@@ -54,21 +56,13 @@ interface SongData {
   version: string
 }
 
-interface SongLeaderboard {
+interface SongStats {
   songName: string
   difficulty: string
-  highestScore?: {
-    score: number
-    accuracy: number
-    userName: string
-    userId: string
-  }
-  highestAccuracy?: {
-    score: number
-    accuracy: number
-    userName: string
-    userId: string
-  }
+  numberOfPhis: number
+  averageAccuracy: number
+  averageScore: number
+  totalScores: number
 }
 
 interface SongsPageProps {
@@ -81,8 +75,8 @@ export function SongsPage({ userScores }: SongsPageProps) {
   /* --- filters & remote data --- */
   const [searchTerm, setSearchTerm] = useState("")
   const [packFilter, setPackFilter] = useState<string>("all")
-  const [leaderboards, setLeaderboards] = useState<
-    Record<string, SongLeaderboard[]>
+  const [songStats, setSongStats] = useState<
+    Record<string, SongStats[]>
   >({})
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
@@ -93,30 +87,30 @@ export function SongsPage({ userScores }: SongsPageProps) {
 
   const songs = songsData as Record<string, SongData>
 
-  /* packs list memoised so it doesn’t recalc on every render */
+  /* packs list memoised so it doesn't recalc on every render */
   const packs = useMemo(
     () => [...new Set(Object.values(songs).map((song) => song.pack))],
     [songs]
   )
 
-  /* ---------- remote leaderboard fetch ---------- */
+  /* ---------- remote stats fetch ---------- */
   useEffect(() => {
-    fetchLeaderboards()
+    fetchSongStats()
   }, [])
 
-  const fetchLeaderboards = async () => {
+  const fetchSongStats = async () => {
     try {
       setError(null)
-      const response = await fetch("/api/leaderboards")
+      const response = await fetch("/api/song-stats")
       if (response.ok) {
         const data = await response.json()
-        setLeaderboards(data)
+        setSongStats(data)
       } else {
         const errorData = await response.json()
-        setError(errorData.error || "Failed to load leaderboards")
+        setError(errorData.error || "Failed to load song statistics")
       }
     } catch (err) {
-      console.error("Error fetching leaderboards:", err)
+      console.error("Error fetching song stats:", err)
       setError("Failed to connect to server")
     } finally {
       setLoading(false)
@@ -173,7 +167,7 @@ export function SongsPage({ userScores }: SongsPageProps) {
     setVisibleCount(30)
   }, [searchTerm, packFilter])
 
-  /* ---------- intersection‑observer for “load more” ---------- */
+  /* ---------- intersection‑observer for "load more" ---------- */
   useEffect(() => {
     if (!loaderRef.current) return
 
@@ -198,7 +192,7 @@ export function SongsPage({ userScores }: SongsPageProps) {
           Song Database
         </h2>
         <p className="text-gray-400">
-          Explore all songs with detailed information and leaderboards
+          Explore all songs with detailed information and statistics
         </p>
       </div>
 
@@ -241,7 +235,7 @@ export function SongsPage({ userScores }: SongsPageProps) {
       {/* Songs List */}
       <div className="grid gap-4">
         {filteredSongs
-          .slice(0, visibleCount) /* <- only render what’s visible */
+          .slice(0, visibleCount) /* <- only render what's visible */
           .map(([songName, songData]) => (
             <Card
               key={songName}
@@ -294,10 +288,10 @@ export function SongsPage({ userScores }: SongsPageProps) {
                       Credits
                     </TabsTrigger>
                     <TabsTrigger
-                      value="leaderboard"
+                      value="stats"
                       className="data-[state=active]:bg-gray-700"
                     >
-                      Leaderboard
+                      Stats
                     </TabsTrigger>
                   </TabsList>
 
@@ -366,17 +360,17 @@ export function SongsPage({ userScores }: SongsPageProps) {
                     </div>
                   </TabsContent>
 
-                  {/* --- leaderboard tab --- */}
-                  <TabsContent value="leaderboard" className="mt-4">
+                  {/* --- stats tab --- */}
+                  <TabsContent value="stats" className="mt-4">
                     {loading ? (
                       <div className="text-center py-4 text-gray-400">
-                        Loading leaderboards...
+                        Loading statistics...
                       </div>
                     ) : error ? (
                       <div className="text-center py-4">
                         <p className="text-red-400 mb-2">⚠️ {error}</p>
                         <button
-                          onClick={fetchLeaderboards}
+                          onClick={fetchSongStats}
                           className="text-purple-400 hover:text-purple-300 text-sm underline"
                         >
                           Try again
@@ -386,7 +380,7 @@ export function SongsPage({ userScores }: SongsPageProps) {
                       <div className="space-y-3">
                         {["EZ", "HD", "IN", "AT"].map((diff) => {
                           const diffKey = `${songName}-${diff}`
-                          const leaderboard = leaderboards[diffKey]
+                          const stats = songStats[diffKey]?.[0]
 
                           if (
                             !songData[
@@ -400,7 +394,7 @@ export function SongsPage({ userScores }: SongsPageProps) {
                               key={diff}
                               className="p-3 bg-gray-800/30 rounded-lg border border-gray-700/50"
                             >
-                              <div className="flex items-center gap-2 mb-2">
+                              <div className="flex items-center gap-2 mb-3">
                                 <Badge
                                   className={getDifficultyBadgeColor(
                                     diff.toLowerCase()
@@ -409,55 +403,53 @@ export function SongsPage({ userScores }: SongsPageProps) {
                                   {diff}
                                 </Badge>
                               </div>
-                              <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs">
-                                {/* high score */}
+                              <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-xs">
+                                {/* number of phis */}
                                 <div>
                                   <div className="flex items-center gap-1 text-yellow-400 mb-1">
                                     <Trophy className="h-3 w-3" />
-                                    Highest Score
+                                    Phis (100%)
                                   </div>
-                                  {leaderboard?.[0]?.highestScore ? (
-                                    <div className="text-gray-300">
-                                      <div>
-                                        {leaderboard[0].highestScore.score.toLocaleString()}
-                                      </div>
-                                      <div className="text-gray-400">
-                                        by {leaderboard[0].highestScore.userName}
-                                      </div>
-                                    </div>
-                                  ) : (
-                                    <div className="text-gray-500">
-                                      No scores yet
-                                    </div>
-                                  )}
+                                  <div className="text-gray-300 font-medium">
+                                    {stats?.numberOfPhis ?? 0}
+                                  </div>
                                 </div>
 
-                                {/* high accuracy */}
+                                {/* average accuracy */}
                                 <div>
                                   <div className="flex items-center gap-1 text-green-400 mb-1">
-                                    <Trophy className="h-3 w-3" />
-                                    Highest Accuracy
+                                    <Target className="h-3 w-3" />
+                                    Avg Accuracy
                                   </div>
-                                  {leaderboard?.[0]?.highestAccuracy ? (
-                                    <div className="text-gray-300">
-                                      <div>
-                                        {leaderboard[0].highestAccuracy.accuracy.toFixed(
-                                          2
-                                        )}
-                                        %
-                                      </div>
-                                      <div className="text-gray-400">
-                                        by {
-                                          leaderboard[0].highestAccuracy
-                                            .userName
-                                        }
-                                      </div>
-                                    </div>
-                                  ) : (
-                                    <div className="text-gray-500">
-                                      No scores yet
-                                    </div>
-                                  )}
+                                  <div className="text-gray-300 font-medium">
+                                    {stats?.averageAccuracy 
+                                      ? `${stats.averageAccuracy.toFixed(2)}%`
+                                      : "N/A"}
+                                  </div>
+                                </div>
+
+                                {/* average score */}
+                                <div>
+                                  <div className="flex items-center gap-1 text-blue-400 mb-1">
+                                    <BarChart3 className="h-3 w-3" />
+                                    Avg Score
+                                  </div>
+                                  <div className="text-gray-300 font-medium">
+                                    {stats?.averageScore 
+                                      ? stats.averageScore.toLocaleString()
+                                      : "N/A"}
+                                  </div>
+                                </div>
+
+                                {/* total scores */}
+                                <div>
+                                  <div className="flex items-center gap-1 text-purple-400 mb-1">
+                                    <User className="h-3 w-3" />
+                                    Total Scores
+                                  </div>
+                                  <div className="text-gray-300 font-medium">
+                                    {stats?.totalScores ?? 0}
+                                  </div>
                                 </div>
                               </div>
                             </div>

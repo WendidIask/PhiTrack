@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "PhiTrack",
   description: "Track your Phigros high scores and RKS",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
