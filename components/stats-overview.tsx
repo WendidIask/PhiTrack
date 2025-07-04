@@ -100,43 +100,23 @@ export function StatsOverview({ scores, calculateRKS, calculateOverallRKS, userR
     {
       title: "Total φ (100%)",
       value: totalPhis.toString(),
-      description: (
-        <div className="space-y-1">
-          <div className="flex justify-between text-xs">
-            <span className={getDifficultyColor("EZ")}>EZ: {phisByDifficulty.EZ}</span>
-            <span className={getDifficultyColor("HD")}>HD: {phisByDifficulty.HD}</span>
-          </div>
-          <div className="flex justify-between text-xs">
-            <span className={getDifficultyColor("IN")}>IN: {phisByDifficulty.IN}</span>
-            <span className={getDifficultyColor("AT")}>AT: {phisByDifficulty.AT}</span>
-          </div>
-        </div>
-      ),
+      description: null, // We'll render this separately
+      breakdown: phisByDifficulty,
       icon: Target,
       color: "text-green-400",
     },
     {
       title: "Total Scores",
       value: totalScores.toString(),
-      description: (
-        <div className="space-y-1">
-          <div className="flex justify-between text-xs">
-            <span className={getDifficultyColor("EZ")}>EZ: {scoresByDifficulty.EZ}</span>
-            <span className={getDifficultyColor("HD")}>HD: {scoresByDifficulty.HD}</span>
-          </div>
-          <div className="flex justify-between text-xs">
-            <span className={getDifficultyColor("IN")}>IN: {scoresByDifficulty.IN}</span>
-            <span className={getDifficultyColor("AT")}>AT: {scoresByDifficulty.AT}</span>
-          </div>
-        </div>
-      ),
+      description: null, // We'll render this separately
+      breakdown: scoresByDifficulty,
       icon: Calendar,
       color: "text-cyan-400",
     },
   ]
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+    <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-4">
       {stats.map((stat) => (
         <Card
           key={stat.title}
@@ -146,16 +126,33 @@ export function StatsOverview({ scores, calculateRKS, calculateOverallRKS, userR
               : "bg-gray-900/50 border-gray-700/50"
           }
         >
-          <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-            <CardTitle className="text-sm font-medium text-gray-200">{stat.title}</CardTitle>
-            <stat.icon className={`h-4 w-4 ${stat.color}`} />
+          <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-1 sm:pb-2">
+            <CardTitle className="text-xs sm:text-sm font-medium text-gray-200 truncate pr-1">
+              {stat.title}
+            </CardTitle>
+            <stat.icon className={`h-3 w-3 sm:h-4 sm:w-4 ${stat.color} flex-shrink-0`} />
           </CardHeader>
-          <CardContent>
-            <div className={`text-2xl font-bold ${stat.highlight ? "text-purple-300" : "text-gray-100"}`}>
+          <CardContent className="pt-0 sm:pt-1">
+            <div className={`text-lg sm:text-2xl font-bold ${stat.highlight ? "text-purple-300" : "text-gray-100"}`}>
               {stat.value}
             </div>
-            <div className="text-xs text-gray-400 mt-1">
-              {typeof stat.description === "string" ? <p>{stat.description}</p> : stat.description}
+            <div className="text-xs text-gray-400 mt-1 leading-tight">
+              {stat.description ? (
+                <p className="truncate sm:whitespace-normal" title={stat.description}>
+                  {stat.description}
+                </p>
+              ) : stat.breakdown ? (
+                <div className="space-y-0.5 sm:space-y-1">
+                  <div className="flex justify-between text-xs">
+                    <span className={getDifficultyColor("EZ")}>EZ: {stat.breakdown.EZ}</span>
+                    <span className={getDifficultyColor("HD")}>HD: {stat.breakdown.HD}</span>
+                  </div>
+                  <div className="flex justify-between text-xs">
+                    <span className={getDifficultyColor("IN")}>IN: {stat.breakdown.IN}</span>
+                    <span className={getDifficultyColor("AT")}>AT: {stat.breakdown.AT}</span>
+                  </div>
+                </div>
+              ) : null}
             </div>
           </CardContent>
         </Card>

@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/next"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Phigros Score Tracker",
+  title: "PhiTrack",
   description: "Track your Phigros high scores and RKS",
     generator: 'v0.dev'
 }

@@ -80,6 +80,7 @@ export default function PhigrosTracker() {
   const [userRank, setUserRank] = useState<number | undefined>(undefined)
   const [totalUsers, setTotalUsers] = useState<number | undefined>(undefined)
 
+
   // Load user and scores on mount
   useEffect(() => {
     const loadUserAndScores = async () => {
@@ -235,7 +236,7 @@ export default function PhigrosTracker() {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gray-900 flex items-center justify-center">
+      <div className="min-h-screen bg-gray-900 flex items-center justify-center px-4">
         <div className="text-center">
           <Music className="h-12 w-12 text-purple-400 animate-pulse mx-auto mb-4" />
           <p className="text-gray-400">Loading your scores...</p>
@@ -254,11 +255,16 @@ export default function PhigrosTracker() {
         {/* Header */}
         <div className="flex items-center justify-between">
           <div className="text-center flex-1">
-            <div className="flex items-center justify-center gap-2">
-              <Music className="h-8 w-8 text-purple-400" />
-              <h1 className="text-4xl font-bold text-purple-400">Phigros Score Tracker</h1>
+            <div className="flex items-center justify-center gap-2 mb-2">
+              <Music className="h-6 w-6 sm:h-8 sm:w-8 text-purple-400" />
+              <h1 className="text-xl sm:text-4xl font-bold text-purple-400">
+                <span>PhiTrack</span>
+              </h1>
             </div>
-            <p className="text-gray-400">Track your high scores and monitor your progress</p>
+            <p className="text-gray-400 text-xs sm:text-base px-2 sm:px-0 leading-relaxed">
+              <span className="hidden sm:inline">Track your high scores and monitor your progress</span>
+              <span className="sm:hidden">Track scores & progress</span>
+            </p>
           </div>
 
           <AuthButton user={user} onLogout={handleLogout} />
@@ -275,36 +281,73 @@ export default function PhigrosTracker() {
 
         {/* Main Content */}
         <Tabs defaultValue="high-scores" className="space-y-4">
-          <div className="flex items-center justify-between">
-            <TabsList className="grid w-full max-w-lg grid-cols-4 bg-gray-800 border-gray-700">
-              <TabsTrigger value="high-scores" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
-                <Trophy className="h-4 w-4" />
-                High Scores
-              </TabsTrigger>
-              <TabsTrigger value="all-scores" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
-                <Music className="h-4 w-4" />
-                All Scores
-              </TabsTrigger>
-              <TabsTrigger value="songs" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
-                <Music2 className="h-4 w-4" />
-                Songs
-              </TabsTrigger>
-              <TabsTrigger value="progress" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
-                <TrendingUp className="h-4 w-4" />
-                Progress
-              </TabsTrigger>
-            </TabsList>
+          {/* Tab Navigation */}
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            {/* Mobile Tab Layout */}
+            <div className="sm:hidden w-full">
+              <div className="grid grid-cols-2 gap-2 mb-2">
+                <TabsList className="grid w-full grid-cols-2 bg-gray-800 border-gray-700">
+                  <TabsTrigger value="high-scores" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
+                    <Trophy className="h-4 w-4" />
+                    <span className="text-xs">Best</span>
+                  </TabsTrigger>
+                  <TabsTrigger value="all-scores" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
+                    <Music className="h-4 w-4" />
+                    <span className="text-xs">All</span>
+                  </TabsTrigger>
+                </TabsList>
+                <TabsList className="grid w-full grid-cols-2 bg-gray-800 border-gray-700">
+                  <TabsTrigger value="songs" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
+                    <Music2 className="h-4 w-4" />
+                    <span className="text-xs">Songs</span>
+                  </TabsTrigger>
+                  <TabsTrigger value="progress" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
+                    <TrendingUp className="h-4 w-4" />
+                    <span className="text-xs">Progress</span>
+                  </TabsTrigger>
+                </TabsList>
+              </div>
+              <Button
+                onClick={() => setIsAddDialogOpen(true)}
+                className="w-full bg-purple-600 hover:bg-purple-700"
+              >
+                <Plus className="h-4 w-4 mr-2" />
+                Add Score
+              </Button>
+            </div>
 
-            <Button
-              onClick={() => setIsAddDialogOpen(true)}
-              className="flex items-center gap-2 bg-purple-600 hover:bg-purple-700"
-            >
-              <Plus className="h-4 w-4" />
-              Add Score
-            </Button>
+            {/* Desktop Tab Layout */}
+            <div className="hidden sm:flex flex-wrap items-center justify-between gap-2 w-full">
+              <TabsList className="grid w-full max-w-lg grid-cols-2 sm:grid-cols-4 bg-gray-800 border-gray-700">
+                <TabsTrigger value="high-scores" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
+                  <Trophy className="h-4 w-4" />
+                  High Scores
+                </TabsTrigger>
+                <TabsTrigger value="all-scores" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
+                  <Music className="h-4 w-4" />
+                  All Scores
+                </TabsTrigger>
+                <TabsTrigger value="songs" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
+                  <Music2 className="h-4 w-4" />
+                  Songs
+                </TabsTrigger>
+                <TabsTrigger value="progress" className="flex items-center gap-2 data-[state=active]:bg-gray-700">
+                  <TrendingUp className="h-4 w-4" />
+                  Progress
+                </TabsTrigger>
+              </TabsList>
+
+              <Button
+                onClick={() => setIsAddDialogOpen(true)}
+                className="flex items-center gap-2 bg-purple-600 hover:bg-purple-700"
+              >
+                <Plus className="h-4 w-4" />
+                Add Score
+              </Button>
+            </div>
           </div>
 
-          <TabsContent value="high-scores">
+          <TabsContent value="high-scores" className="space-y-4">
             <Card className="bg-gray-900/50 border-gray-700/50">
               <CardHeader>
                 <CardTitle className="text-gray-200">Personal Best Scores</CardTitle>
@@ -318,7 +361,7 @@ export default function PhigrosTracker() {
             </Card>
           </TabsContent>
 
-          <TabsContent value="all-scores">
+          <TabsContent value="all-scores" className="space-y-4">
             <Card className="bg-gray-900/50 border-gray-700/50">
               <CardHeader>
                 <CardTitle className="text-gray-200">All Recorded Scores</CardTitle>
@@ -330,11 +373,11 @@ export default function PhigrosTracker() {
             </Card>
           </TabsContent>
 
-          <TabsContent value="songs">
+          <TabsContent value="songs" className="space-y-4">
             <SongsPage userScores={scores} />
           </TabsContent>
 
-          <TabsContent value="progress">
+          <TabsContent value="progress" className="space-y-4">
             <div className="grid gap-4">
               <Card className="bg-gray-900/50 border-gray-700/50">
                 <CardHeader>
